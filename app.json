@@ -1,0 +1,12 @@
+{
+  "name": "sugarMama",
+  "displayName": "sugarMama",
+  "expo": {
+    "name": "sugarMama",
+    "slug": "sugarMama",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
