@@ -1,6 +1,5 @@
 import React, { useState, useEffect, createContext } from "react";
 import auth from "@react-native-firebase/auth";
-import firestore from "@react-native-firebase/firestore";
 
 import { showMessage } from "react-native-flash-message";
 
@@ -12,7 +11,7 @@ export function AuthProvider(props) {
 	const [isLoading, setIsLoading] = useState(false);
 
 	async function onAuthStateChanged(user) {
-		// console.log(user);
+		console.log(user);
 		setUser(user);
 		if (initializing) setInitializing(false);
 	}
@@ -30,7 +29,7 @@ export function AuthProvider(props) {
 						type: "warning",
 						duration: 5000,
 						titleProps: "OK",
-					});
+ 					});
 				} else {
 					setUser(res.user);
 				}
@@ -61,7 +60,7 @@ export function AuthProvider(props) {
 				titleProps: "OK",
 			});
 			setIsLoading(false);
-			return Promise.resolve(user);
+			return user;
 		} catch (error) {
 			showMessage({
 				message: error.message,

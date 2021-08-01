@@ -27,7 +27,7 @@ const headerConfig = (navigation, route) => ({
 									// View saved modules
 								}
 							}}
-							name="ios-heart-empty"
+							name="heart-outline"
 							size={24}
 							color="white"
 						></Ionicons>

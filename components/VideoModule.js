@@ -6,6 +6,7 @@ import YouTube from "react-native-youtube";
 import { ScrollView } from "react-native-gesture-handler";
 import Ionicons from "react-native-vector-icons/Ionicons";
 import { widthPercentageToDP } from "react-native-responsive-screen";
+import _ from 'lodash';
 
 export default function VideoModule({ module }) {
 	const [activeSections, setActiveSections] = useState([]);
@@ -34,14 +35,19 @@ export default function VideoModule({ module }) {
 			</View>
 		);
 	};
-
+	const videoId = (section) => {
+		if (_.includes(section, 'youtu.be/')){
+			const replacedId = _.replace(section,'youtu.be/','youtube.com/watch?v=');
+			return _.get(_.split(replacedId, '='), '[1]', '');
+		} return _.get(_.split(section, '='), '[1]', '');
+	}
 	const _renderContent = (section, index) => {
 		console.log(section);
 		return (
 			<View style={styles.sectionContent}>
 				<YouTube
 					apiKey="AIzaSyCSwd0QJJEFkTHAArbn5o7p7Q0pfxvGKJ4"
-					videoId={section.split("=")[1]} // The YouTube video ID
+					videoId={videoId(section)} // The YouTube video ID
 					onReady={() => {
 						isReady({ [index]: true, ...ready });
 					}}

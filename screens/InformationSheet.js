@@ -11,9 +11,7 @@ import { InitDataContext } from "../providers/InitDataProvider";
 import { ModulesContext } from "../providers/ModulesProvider";
 
 export default function InformationSheet({ navigation }) {
-	const { consentLink } = useContext(InitDataContext);
-	const { DESAnswers, GDMKQAnswers, createUserProfile, addToRecentlyViewed } =
-		initDataContext;
+	const { consentLink, DESAnswers, GDMKQAnswers, createUserProfile, addToRecentlyViewed } = useContext(InitDataContext);
 	const { modules } = useContext(ModulesContext);
 
 	return (
