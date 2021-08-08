@@ -1,11 +1,39 @@
-import React from "react";
+import React, {useEffect, useState} from "react";
 import { StyleSheet, View, Image } from "react-native";
-import { Text, Button } from "react-native-paper";
+import { Text, Button, TextInput } from "react-native-paper";
 import { widthPercentageToDP } from "react-native-responsive-screen";
 import { StatusBar } from "expo-status-bar";
 import { Welcome as WelcomeImage } from "../assets";
+import PushNotification from "react-native-push-notification";
+import _ from "lodash";
+import moment from "moment";
 
 export default function Welcome({ navigation }) {
+	const [text, setText] = useState(0);
+	const setNotification = () => {
+		PushNotification.getScheduledLocalNotifications((notifications) => {
+			// console.log(notifications)
+			const reminder = notifications.find(
+				(notification) => notification.message === "Breakfast reminder"
+			);
+			if (reminder)
+				PushNotification.cancelLocalNotifications({id: reminder.id});
+		});
+		PushNotification.localNotificationSchedule({
+			channelId: "channel-id",
+			/* Android Only Properties */
+			ignoreInForeground: false, // (optional) if true, the notification will not be visible when the app is in the foreground (useful for parity with how iOS notifications appear)
+
+			/* iOS and Android properties */
+			id: _.uniqueId(),
+			message: "Renew Profile", // (required)
+			 // (optional) Repeating interval. Check 'Repeating Notifications' section for more info.
+			date: moment().add(_.toInteger(text), 'months').toDate(),
+		});
+		PushNotification.getScheduledLocalNotifications((notifications) => {
+			console.log(_.tail(notifications))
+		})
+	}
 	return (
 		<>
 			<StatusBar style="dark" />

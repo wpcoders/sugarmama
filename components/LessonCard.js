@@ -2,6 +2,7 @@ import React from "react";
 import {StyleSheet, View} from "react-native";
 import {Button, Card, Title, Paragraph} from "react-native-paper";
 import {widthPercentageToDP} from "react-native-responsive-screen";
+import _ from 'lodash';
 
 export default function LessonCard({onPress, item}) {
     return (
@@ -11,7 +12,7 @@ export default function LessonCard({onPress, item}) {
                 <Card.Title
                     titleStyle={{color: 'white', fontSize: 12, marginLeft: -7}}
                     numberOfLines={1}
-                    title={item.title}
+                    title={_.get(item, 'title', '')}
                 />
             </Card.Actions>
         </Card>

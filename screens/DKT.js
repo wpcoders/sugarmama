@@ -1,6 +1,6 @@
 import React, { useState, useRef, useContext, useEffect } from "react";
 import { StyleSheet, View, SafeAreaView } from "react-native";
-import { Text, Button } from "react-native-paper";
+import {Text, Button, TextInput} from "react-native-paper";
 import { widthPercentageToDP } from "react-native-responsive-screen";
 import { ScrollView } from "react-native-gesture-handler";
 import RadioForm, {
@@ -10,14 +10,31 @@ import RadioForm, {
 } from "react-native-simple-radio-button";
 import { primary } from "../constants/Colors";
 import { InitDataContext } from "../providers/InitDataProvider";
+import PushNotification from "react-native-push-notification";
+import _ from "lodash";
+import moment from "moment";
 
 export default function DKT({ navigation, route }) {
 	const initDataContext = useContext(InitDataContext);
 
 	const { GDMKQQuestions: questions, _setGDMKQAnswers } = initDataContext;
-
+	const [text, setText] = useState(1);
 	const [answers, setAnswers] = useState([]);
-
+	// const setNotification = () => {
+	// 	console.log(text);
+	// 	console.log(moment().add(_.toInteger(text), 'months'))
+	// 	PushNotification.localNotificationSchedule({
+	// 		channelId: "channel-id",
+	// 		/* Android Only Properties */
+	// 		ignoreInForeground: false, // (optional) if true, the notification will not be visible when the app is in the foreground (useful for parity with how iOS notifications appear)
+	//
+	// 		/* iOS and Android properties */
+	// 		id: _.uniqueId(),
+	// 		message: "Renew Profile", // (required)
+	// 		// (optional) Repeating interval. Check 'Repeating Notifications' section for more info.
+	// 		date: moment().add(_.toInteger(text), 'months').toDate(),
+	// 	});
+	// }
 	useEffect(() => {
 		const newAnswers = questions?.map(() => {
 			return "I dont know";
@@ -65,11 +82,27 @@ export default function DKT({ navigation, route }) {
 				</Text>
 
 				<View style={styles.formContainer}>{_renderForm()}</View>
-
+				{/*<View>*/}
+				{/*	<Text>*/}
+				{/*		Renew Profile in*/}
+				{/*	</Text>*/}
+				{/*	<TextInput*/}
+				{/*		value = {_.toString(text)}*/}
+				{/*		keyboardType = {'number-pad'}*/}
+				{/*		onChangeText = {text => {*/}
+				{/*			console.log(text);*/}
+				{/*			setText(text)*/}
+				{/*		}}*/}
+				{/*	/>*/}
+				{/*	<Text>*/}
+				{/*		Month*/}
+				{/*	</Text>*/}
+				{/*</View>*/}
 				<Button
 					style={styles.btn}
 					onPress={() => {
 						_setGDMKQAnswers(answers);
+						// setNotification();
 						route.name === "DKT-Revisited"
 							? navigation.push("Main")
 							: navigation.push("Welcome");

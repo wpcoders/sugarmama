@@ -39,7 +39,6 @@ export function InitDataProvider(props) {
     const addToRecentlyViewed = (module) => {
         const resultRecentlyViewd = _.filter(recentlyViewed, (viewedModule) => viewedModule.title !== module)
         if (resultRecentlyViewd.length < 100) {
-            console.log([...resultRecentlyViewd, module].map((item) => item.title))
             setRecentlyViewed([...resultRecentlyViewd, module]);
         } else {
             const _recentlyViewed = resultRecentlyViewd;
@@ -52,14 +51,30 @@ export function InitDataProvider(props) {
         });
     };
 
-    const updateProfile = (name, value) => {
+    const updateProfile = async (name, value) => {
         setUserProfile({...userProfile, [name]: value});
-        firestore()
-            .collection("users")
-            .doc(user?.uid)
-            .update({
-                [name]: value,
-            });
+        if (_.isObject(value)) {
+            return firestore()
+                .collection("users")
+                .doc(user.uid)
+                .set({
+                    [name]: _.reduce(_.cloneDeep(value), (result, v, key) => {
+                        if (!_.isUndefined(v) && !_.isNull(v)) {
+                            // console.log('value is', v)
+                            // console.log('key is', key)
+                            result[key] = v
+                        }
+                        return result
+                    }, {})
+                }, {merge: true})
+        } else {
+            return firestore()
+                .collection("users")
+                .doc(user.uid)
+                .set({
+                    [name]: value,
+                }, {merge: true})
+        }
     };
 
     const updateQuestionnaireResponse = () => {
@@ -92,7 +107,8 @@ export function InitDataProvider(props) {
     };
 
     const addGoalToProfile = (moduleId, goal) => {
-        if (goal) {
+        console.log({moduleId});
+        if (goal && moduleId) {
             analytics().logEvent(`goal_${moduleId}_added`);
             firestore()
                 .collection("users")
@@ -128,7 +144,7 @@ export function InitDataProvider(props) {
         const updatedGoal = goals.find((goal) => goal.id === goalId);
         const newGoals = goals.filter((goal) => goal.id !== goalId);
         setGoals([{...updatedGoal, completed: true}, ...newGoals]);
-        analytics().logEvent(`goal_${updatedGoal}_completed`);
+        analytics().logEvent(`goal_${goalId}_completed`);
         firestore()
             .collection("users")
             .doc(user?.uid)
@@ -223,7 +239,7 @@ export function InitDataProvider(props) {
             .set({
                 createdAt: firestore.FieldValue.serverTimestamp(),
                 ...userProfile,
-            })
+            }, {merge: true})
             .then(() => {
                 setUserProfile(userProfile);
             });

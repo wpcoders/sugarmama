@@ -70,8 +70,6 @@ export default function Module({route}) {
         updateCurrentModule(modules[index]);
     };
 
-    console.log("Id", goalId);
-
     return (
         <View style={styles.container}>
             <FastImage source={{uri: module?.image}} style={styles.img}></FastImage>

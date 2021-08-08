@@ -13,6 +13,9 @@ import {showMessage} from "react-native-flash-message";
 import {InitDataContext} from "../providers/InitDataProvider";
 import {ModulesContext} from "../providers/ModulesProvider";
 import _ from 'lodash';
+import PushNotification from "react-native-push-notification";
+import moment from 'moment';
+import AsyncStorage from "@react-native-community/async-storage";
 
 function ListHeader() {
     return (
@@ -53,7 +56,7 @@ function ListFooter({navigation}) {
         <View style={styles.listFooterView}>
             <Button
                 labelStyle={{color: '#fff'}}
-                icon = "plus"
+                icon="plus"
                 onPress={() => {
                     navigation.push("Categories");
                 }}
@@ -80,13 +83,36 @@ export default function Home({navigation}) {
     const {height, width} = Dimensions.get('window')
     const {updateQuestionnaireResponse, recentlyViewed} = useContext(InitDataContext);
     const {modules} = useContext(ModulesContext);
+    const {userProfile} = useContext(InitDataContext);
 
     useEffect(() => {
-        console.log(_.size(modules))
-        console.log('101', _.findIndex(recentlyViewed, {title: 'Self-care 101'}) !== -1)
-        console.log('GDM', _.findIndex(recentlyViewed, {title: 'What is Gestational Diabetes (GDM)?'}) !== -1);
-        console.log('blood glucose', _.findIndex(recentlyViewed, {title: 'How stress affects your blood glucose levels'}) !== -1)
-    })
+        const unsubscribe = navigation.addListener('focus', () => {
+            checkNotification();
+        });
+        return unsubscribe;
+    }, [navigation]);
+    const checkNotification = async () => {
+       const needRenew = await AsyncStorage.getItem("needRenew");
+       console.log('need Renew',needRenew)
+       if(needRenew !== 'false'){
+           console.log(_.get(userProfile, 'date', null))
+           console.log(moment(userProfile.date).diff(moment(), 'days'))
+           if(moment(userProfile.date).diff(moment(), 'days') === 6){
+              await AsyncStorage.setItem("needRenew", 'false');
+              navigation.navigate('DES-Revisited')
+           }
+       }
+    }
+
+    useEffect(() => {
+        const tagIdList = _.map(_.map(_.flattenDeep(_.map(_.takeRight(recentlyViewed, 5), 'tags'))), 'id')
+        const randomIndex = _.random(0, _.size(tagIdList) / 3 - 1);
+        const randomIndex2 = _.random(_.size(tagIdList) / 3, _.size(tagIdList) * 2 / 3 - 1);
+        const randomIndex3 = _.random(_.size(tagIdList) * 2 / 3, _.size(tagIdList) - 1);
+        console.log(tagIdList[randomIndex]);
+        console.log(tagIdList[randomIndex2]);
+        console.log(tagIdList[randomIndex3]);
+    }, [recentlyViewed, modules])
 
     function defaultModules() {
         return _.compact([
@@ -96,12 +122,33 @@ export default function Home({navigation}) {
         ])
     }
 
+    function randomThree(list) {
+        console.log(_.size(list));
+        const randomIndex = _.toInteger(_.random(0, _.size(list) / 3 - 1));
+        const randomIndex2 = _.toInteger(_.random(_.size(list) / 3, _.size(list) * 2 / 3 - 1));
+        const randomIndex3 = _.toInteger(_.random(_.size(list) * 2 / 3, _.size(list) - 1));
+        return [list[randomIndex], list[randomIndex2], list[randomIndex3]];
+    }
+
     function displayModules() {
         if (_.findIndex(recentlyViewed, {title: 'Self-care 101'}) !== -1 &&
             _.findIndex(recentlyViewed, {title: 'What is Gestational Diabetes (GDM)?'}) !== -1 &&
             _.findIndex(recentlyViewed, {title: 'How stress affects your blood glucose levels'}) !== -1
         ) {
-            return _.takeRight(recentlyViewed, 3)
+            const tagIdList = _.map(_.map(_.flattenDeep(_.map(_.takeRight(recentlyViewed, 5), 'tags'))), 'id')
+            const resultTagIdList = randomThree(tagIdList);
+            const fullModuleList = [...modules["Self-Care"], ...modules["Medical"], ...modules["Stess & Anxiety"], ...modules["Support"]]
+            const filteredModuleList = _.filter(fullModuleList, (module) => {
+                const moduleTagIdList = _.map(module.tags, (tag) => {
+                    return tag.id
+                });
+                console.log(moduleTagIdList);
+                return (_.indexOf(moduleTagIdList, resultTagIdList[0] !== -1)
+                    || _.indexOf(moduleTagIdList, resultTagIdList[1] !== -1)
+                    || _.indexOf(moduleTagIdList, resultTagIdList[2] !== -1)
+                )
+            })
+            return randomThree(filteredModuleList);
         } else {
             return defaultModules()
         }
@@ -118,7 +165,7 @@ export default function Home({navigation}) {
                 <FlatList
                     ListEmptyComponent={<ListEmptyComponent/>}
                     ListHeaderComponent={<ListHeader/>}
-                    ListFooterComponentStyle={{width: width*0.5, marginLeft: width*0.25}}
+                    ListFooterComponentStyle={{width: width * 0.5, marginLeft: width * 0.25}}
                     showsHorizontalScrollIndicator={false}
                     showsVerticalScrollIndicator={false}
                     numColumns={3}

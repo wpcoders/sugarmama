@@ -46,7 +46,6 @@ export function ModulesProvider(props) {
 		console.log("GETTING SAVED MODULES");
 		AsyncStorage.getItem("savedModules", (err, result) => {
 			const modules = JSON.parse(result);
-			console.log("provider", modules);
 			if (modules !== null) setSavedModules([...new Set([modules])]);
 		});
 	};

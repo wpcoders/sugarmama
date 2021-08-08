@@ -11,7 +11,7 @@ import { InitDataContext } from "../providers/InitDataProvider";
 import { ModulesContext } from "../providers/ModulesProvider";
 
 export default function InformationSheet({ navigation }) {
-	const { consentLink, DESAnswers, GDMKQAnswers, createUserProfile, addToRecentlyViewed } = useContext(InitDataContext);
+	const { userProfile, consentLink, DESAnswers, GDMKQAnswers, createUserProfile, addToRecentlyViewed } = useContext(InitDataContext);
 	const { modules } = useContext(ModulesContext);
 
 	return (
@@ -32,28 +32,9 @@ export default function InformationSheet({ navigation }) {
 				<Button
 					onPress={() => {
 						createUserProfile();
-						const defaultModule_1 = modules["Medical"].find((module) => {
-							return module.title === "What is Gestational Diabetes (GDM)?";
-						});
-						addToRecentlyViewed(defaultModule_1);
-
-						const defaultModule_2 = modules["Self-Care"].find((module) => {
-							return module.title === "Self-care 101";
-						});
-						addToRecentlyViewed(defaultModule_2);
-
-						const defaultModule_3 = modules["Self-Care"].find((module) => {
-							return module.title === "GDM will cause birth defects";
-						});
-						addToRecentlyViewed(defaultModule_3);
-
-						const defaultModule_4 = modules["Self-Care"].find((module) => {
-							return (
-								module.title === "How stress affects your blood glucose levels"
-							);
-						});
-						addToRecentlyViewed(defaultModule_4);
-
+						if(userProfile){
+							navigation.navigate("Main");
+						}
 						// console.log(modules);
 						// navigation.navigate("Main");
 					}}
