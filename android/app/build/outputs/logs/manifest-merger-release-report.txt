@@ -1,0 +1,1200 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:1:1-68:12
+INJECTED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:1:1-68:12
+INJECTED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:1:1-68:12
+INJECTED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:1:1-68:12
+MERGED from [:unimodules-react-native-adapter] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-17:12
+MERGED from [:expo-splash-screen] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-splash-screen\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-updates] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-updates\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-13:12
+MERGED from [:astrocoders_react-native-selectable-text] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@astrocoders\react-native-selectable-text\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-community_async-storage] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_checkbox] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-community\checkbox\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_datetimepicker] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-community\datetimepicker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-community_masked-view] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_slider] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-community\slider\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-firebase_analytics] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\analytics\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-21:12
+MERGED from [:react-native-firebase_auth] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-15:12
+MERGED from [:react-native-firebase_firestore] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\firestore\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-45:12
+MERGED from [:react-native-firebase_app] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\app\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-calendar-events] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\react-native-calendar-events\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-fast-image] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\react-native-fast-image\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-push-notification] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\react-native-push-notification\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\react-native-screens\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-youtube] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\react-native-youtube\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.64.2] C:\Users\q\.gradle\caches\transforms-2\files-2.1\8dfc6ffb3c98bda845b6e54856ddd71b\jetified-react-native-0.64.2\AndroidManifest.xml:2:1-13:12
+MERGED from [:expo-file-system] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-37:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d0fa3b1b9a4e5abec72f523c93934511\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:17:1-83:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\58ef1f2a3d6d82aee03f90fa07d708ba\browser-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7bbea7a9c5711abbc04b45298a13d391\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\f0d92c76ac842788f4e354f1c0348b67\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:expo-application] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-application\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-constants] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-constants\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-error-recovery] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-error-recovery\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-font] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-font\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-image-loader] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-image-loader\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-keep-awake] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-keep-awake\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-modules-core] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-modules-core\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-structured-headers] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-structured-headers\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-app-loader] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\unimodules-app-loader\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-task-manager-interface] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\unimodules-task-manager-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-core] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@unimodules\core\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-updates-interface] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-updates-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\q\.gradle\caches\transforms-2\files-2.1\2b313c22aefa462b4ae8606839555b95\jetified-android-jsc-r245459\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\react-native-reanimated\android\build\.transforms\7ba834e573fb57fb485472aa6a339d10\jetified-react-native-reanimated-64-jsc\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\360319d80e27666e420d6222c062d2f1\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:17:1-58:12
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\614feabac1c9d26b17a8139d7956ee93\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7447e94a65cf0b9e8b14dc5cfdf99840\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\e21269082c3e7c37343650d0cc60b9ba\jetified-transport-runtime-3.0.0\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\6b335435edd2b3bbcd97cbb881d263ba\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7ce2103973e614cf4dde6db1aecf52dd\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\715577c12a4d3f0a3c4871fdda9dce15\jetified-fresco-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\1672c5eb367103677daad139eaab6424\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\30fabef2e8d3d888bf9919960753b749\jetified-drawee-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\e84ca8b76793d61db5772da1671a5034\jetified-nativeimagefilters-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\695f353f0b8b36533a5d6fe0ea570b25\jetified-imagepipeline-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\ce5274f34b122edc259e63f3c5492e08\jetified-nativeimagetranscoder-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\09abaef93e30cb1d9fe09522b341f7d9\jetified-imagepipeline-base-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\e9ea1fd999e3357770223419236709bc\jetified-soloader-0.9.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-firestore:23.0.2] C:\Users\q\.gradle\caches\transforms-2\files-2.1\dadbf14fe9e8a070145a128008dbea2b\jetified-firebase-firestore-23.0.2\AndroidManifest.xml:2:1-26:12
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\9f6081385206b8b1c8cefb7493ed3290\jetified-grpc-android-1.28.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\117371cbaa60254c4f9b5cc6f71d5780\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:2:1-16:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\dedff52b59daa9307a013d7e237c95fd\jetified-glide-4.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\427ccc83ca02ff7c88804996d881ed38\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\8756a4a1b28a782f4c7434482677b953\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\cd5fb0071cbc21970fc3d079c98266e1\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\4aca5ebb8bc1aab19c7925eb2ab19adc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\91096b674d51146cb028f0d82f8f5339\jetified-play-services-auth-base-17.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\9be31ed436f47ae2b8b6fad23c9658e3\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\dd7be4ea6629b1e9c64a9a981bdd7847\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\50f38332c5e9c84eb9eac0c681ce3761\jetified-firebase-database-collection-18.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\21927a8180efebde93f368a3ac143faf\jetified-play-services-base-17.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\99298fcc2477407b879a5a2843ae646c\jetified-firebase-analytics-19.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\33dd554b9e5392b54074801ae93e62d3\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c929ae051cc6a6bab61aae3f23746900\jetified-firebase-installations-17.0.0\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\2971e6876e02845caf5ba775a0295ace\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7429cb0d5e7130993f3ad3aba5557ce6\jetified-firebase-common-20.0.0\AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\560f02eb4879dd4292df069ecc8b32f8\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\bb9418d4d89851ad766a7c57e1732cf9\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d23b90304703d0bad873fe9ce50bccf9\jetified-firebase-installations-interop-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\8f65dbdcfe569455e3d6d815daa5a6bb\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\07a5700badd935fc2cc591d00aab10a5\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\f903e08474b9817ac1f195179c425897\jetified-play-services-measurement-sdk-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\1bb9a5b588ad2903b67ce677037dafa3\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\5e0d979659ace39f1be8989d58cd3217\jetified-play-services-stats-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\016fec60cd3b18f812bdbf0d7999afe1\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d93019542474b223facf92e9b8c4756e\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\2f5da2fa2bb4d9fb2ce05f9d37129c5f\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d8d0df42aba3ceb53ae1825c0fbea319\jetified-play-services-measurement-base-19.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\345ab3ac7d764c8b10080acb609ca770\jetified-play-services-basement-17.1.1\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\1fb068f983f3fbc2faa5711349d66ef2\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\028b46f84c892467fa3bf9bea19155fe\fragment-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\cdd4b60ad8e178814597610e6bd16697\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\3f929a544c43ff67428e6393b4ad5b55\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\8d172c177ff0a8e5dbec9a932219052e\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\afcab2bd9b752eeb09c1c2439a4b1092\room-runtime-2.1.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\4fd8cf7271f8e30dadd908cc177ccf32\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\4fd06f21cf3b182e1646d0d701171e3e\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c59fe6f1617d9e81affa9d4b2f6badab\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\07e41c99ae9fd78958f8f3c875e7287e\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\305d27d6dba9c78df8a201c748af6589\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7b35d9dee8590eff54ff4ef6a73fbb34\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\aa112b6feddc74110055541902026aab\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\0520780cc5f16ee97569fe2fed98f2cf\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\ba6b59894dfea597440a19523ce01e4a\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\34790bccffb9a148cf4e1fd4c0fee67d\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\f8430d683fe2ebfe4c92d6c8cefa7ccc\core-1.3.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\33328521febd43b03ef477638f8dee7b\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\5fe3d1a97fcbcfa9b8e8fb45460294a3\sqlite-framework-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\a0fe2ebfe93c3c6cb8d1fff3e44848a8\sqlite-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\a65b0d7abd466f95ef04abef4b13a29f\jetified-gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\eb8b4d05c73a831a21aa4372a2aeb9e9\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\40b85b7edd2e871b578be23e9a58cdfc\jetified-transport-api-3.0.0\AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\e460c4ae0e2bd1adf9c0ee4322456cdc\jetified-firebase-components-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d32cf8775d7f8e024ee22c72bc02b849\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\ff5def1e945b45657b1513128cfefa52\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\0fa70d4116f6c47875ebd64c0256665b\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\b23ab381698dde15a14d99366d8a5493\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\6838ec1c06a88d206cbf29deb1cb7a59\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\be9f2ddc0bea934d2f7cd1476524ba53\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\1ee4798729735cc28d454ce1c049462c\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\a9917c6f02d3370c18a78dab2a98c3f2\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c45c3ade7f9d95169dd8514e91353b13\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c8d56ae1413fc702191a092d6ddd56e6\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c18561bff2f10ed21bf714dcddb5113b\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\5ad2a6c77a471c77fbad3feae655c7b0\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c32485061b7c11da3b3748bedfd17a96\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d21114c96aa38dd04ee37ff248ea6ead\jetified-installreferrer-1.0\AndroidManifest.xml:2:1-13:12
+MERGED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:2:1-52:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\e2aebb060d66a22f32f5bcf68fd551c2\jetified-fbcore-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\3d2bd599ac1f8327c81b15982fa78fdb\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:1:1-68:12
+INJECTED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:1:1-68:12
+INJECTED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:1:1-68:12
+	package
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:1:70-103
+		INJECTED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:1:1-68:12
+		INJECTED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:1:1-68:12
+		INJECTED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:2:3-64
+MERGED from [:react-native-firebase_analytics] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\analytics\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-67
+MERGED from [:react-native-firebase_analytics] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\analytics\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-67
+MERGED from [:react-native-firebase_auth] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase_auth] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-67
+MERGED from [:expo-file-system] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-67
+MERGED from [:expo-file-system] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7447e94a65cf0b9e8b14dc5cfdf99840\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7447e94a65cf0b9e8b14dc5cfdf99840\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-firestore:23.0.2] C:\Users\q\.gradle\caches\transforms-2\files-2.1\dadbf14fe9e8a070145a128008dbea2b\jetified-firebase-firestore-23.0.2\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:23.0.2] C:\Users\q\.gradle\caches\transforms-2\files-2.1\dadbf14fe9e8a070145a128008dbea2b\jetified-firebase-firestore-23.0.2\AndroidManifest.xml:14:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\33dd554b9e5392b54074801ae93e62d3\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\33dd554b9e5392b54074801ae93e62d3\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c929ae051cc6a6bab61aae3f23746900\jetified-firebase-installations-17.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c929ae051cc6a6bab61aae3f23746900\jetified-firebase-installations-17.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\560f02eb4879dd4292df069ecc8b32f8\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\560f02eb4879dd4292df069ecc8b32f8\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\07a5700badd935fc2cc591d00aab10a5\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\07a5700badd935fc2cc591d00aab10a5\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\1bb9a5b588ad2903b67ce677037dafa3\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\1bb9a5b588ad2903b67ce677037dafa3\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\2f5da2fa2bb4d9fb2ce05f9d37129c5f\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\2f5da2fa2bb4d9fb2ce05f9d37129c5f\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:2:20-62
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:3:3-75
+	android:name
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:3:20-73
+uses-permission#android.permission.MANAGE_DOCUMENTS
+ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:4:3-72
+	android:name
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:4:20-70
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:5:3-77
+	android:name
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:5:20-75
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:6:3-72
+	android:name
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:6:20-70
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:7:3-71
+	android:name
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:7:20-69
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:8:3-63
+	android:name
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:8:20-61
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:9:3-77
+	android:name
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:9:20-75
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:10:3-78
+	android:name
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:10:20-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:11:3-76
+	android:name
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:11:20-74
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:12:3-62
+	android:name
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:12:20-60
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:13:3-69
+	android:name
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:13:20-67
+uses-permission#android.permission.READ_CALENDAR
+ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:14:3-69
+MERGED from [:react-native-calendar-events] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\react-native-calendar-events\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-72
+MERGED from [:react-native-calendar-events] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\react-native-calendar-events\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-72
+	android:name
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:14:20-67
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:15:3-70
+MERGED from [:react-native-calendar-events] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\react-native-calendar-events\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-73
+MERGED from [:react-native-calendar-events] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\react-native-calendar-events\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-73
+	android:name
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:15:20-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:16:3-77
+MERGED from [:expo-file-system] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:14:5-80
+MERGED from [:expo-file-system] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:16:20-75
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:17:3-68
+	android:name
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:17:20-66
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:18:3-78
+MERGED from [:expo-file-system] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-81
+MERGED from [:expo-file-system] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:18:20-76
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:19:3-70
+	android:name
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:19:20-68
+application
+ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:20:3-67:17
+MERGED from [:unimodules-react-native-adapter] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-15:19
+MERGED from [:unimodules-react-native-adapter] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-15:19
+MERGED from [:react-native-community_datetimepicker] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-community\datetimepicker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-20
+MERGED from [:react-native-community_datetimepicker] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-community\datetimepicker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-20
+MERGED from [:react-native-firebase_analytics] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\analytics\android\build\intermediates\library_manifest\release\AndroidManifest.xml:15:5-19:19
+MERGED from [:react-native-firebase_analytics] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\analytics\android\build\intermediates\library_manifest\release\AndroidManifest.xml:15:5-19:19
+MERGED from [:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:15:5-43:19
+MERGED from [:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:15:5-43:19
+MERGED from [com.facebook.react:react-native:0.64.2] C:\Users\q\.gradle\caches\transforms-2\files-2.1\8dfc6ffb3c98bda845b6e54856ddd71b\jetified-react-native-0.64.2\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.64.2] C:\Users\q\.gradle\caches\transforms-2\files-2.1\8dfc6ffb3c98bda845b6e54856ddd71b\jetified-react-native-0.64.2\AndroidManifest.xml:11:5-20
+MERGED from [:expo-file-system] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:24:5-35:19
+MERGED from [:expo-file-system] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\360319d80e27666e420d6222c062d2f1\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:27:5-56:19
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\360319d80e27666e420d6222c062d2f1\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:27:5-56:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\614feabac1c9d26b17a8139d7956ee93\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\614feabac1c9d26b17a8139d7956ee93\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7447e94a65cf0b9e8b14dc5cfdf99840\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7447e94a65cf0b9e8b14dc5cfdf99840\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\e21269082c3e7c37343650d0cc60b9ba\jetified-transport-runtime-3.0.0\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\e21269082c3e7c37343650d0cc60b9ba\jetified-transport-runtime-3.0.0\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\6b335435edd2b3bbcd97cbb881d263ba\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\6b335435edd2b3bbcd97cbb881d263ba\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\e9ea1fd999e3357770223419236709bc\jetified-soloader-0.9.0\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\e9ea1fd999e3357770223419236709bc\jetified-soloader-0.9.0\AndroidManifest.xml:11:5-20
+MERGED from [com.google.firebase:firebase-firestore:23.0.2] C:\Users\q\.gradle\caches\transforms-2\files-2.1\dadbf14fe9e8a070145a128008dbea2b\jetified-firebase-firestore-23.0.2\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:23.0.2] C:\Users\q\.gradle\caches\transforms-2\files-2.1\dadbf14fe9e8a070145a128008dbea2b\jetified-firebase-firestore-23.0.2\AndroidManifest.xml:16:5-24:19
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\117371cbaa60254c4f9b5cc6f71d5780\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\117371cbaa60254c4f9b5cc6f71d5780\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\dedff52b59daa9307a013d7e237c95fd\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\dedff52b59daa9307a013d7e237c95fd\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\4aca5ebb8bc1aab19c7925eb2ab19adc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\4aca5ebb8bc1aab19c7925eb2ab19adc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\dd7be4ea6629b1e9c64a9a981bdd7847\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\dd7be4ea6629b1e9c64a9a981bdd7847\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\21927a8180efebde93f368a3ac143faf\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\21927a8180efebde93f368a3ac143faf\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\99298fcc2477407b879a5a2843ae646c\jetified-firebase-analytics-19.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\99298fcc2477407b879a5a2843ae646c\jetified-firebase-analytics-19.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\33dd554b9e5392b54074801ae93e62d3\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\33dd554b9e5392b54074801ae93e62d3\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c929ae051cc6a6bab61aae3f23746900\jetified-firebase-installations-17.0.0\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c929ae051cc6a6bab61aae3f23746900\jetified-firebase-installations-17.0.0\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\2971e6876e02845caf5ba775a0295ace\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\2971e6876e02845caf5ba775a0295ace\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7429cb0d5e7130993f3ad3aba5557ce6\jetified-firebase-common-20.0.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7429cb0d5e7130993f3ad3aba5557ce6\jetified-firebase-common-20.0.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\bb9418d4d89851ad766a7c57e1732cf9\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\bb9418d4d89851ad766a7c57e1732cf9\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\8f65dbdcfe569455e3d6d815daa5a6bb\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\8f65dbdcfe569455e3d6d815daa5a6bb\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\07a5700badd935fc2cc591d00aab10a5\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\07a5700badd935fc2cc591d00aab10a5\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\f903e08474b9817ac1f195179c425897\jetified-play-services-measurement-sdk-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\f903e08474b9817ac1f195179c425897\jetified-play-services-measurement-sdk-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\1bb9a5b588ad2903b67ce677037dafa3\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\1bb9a5b588ad2903b67ce677037dafa3\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\5e0d979659ace39f1be8989d58cd3217\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\5e0d979659ace39f1be8989d58cd3217\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\016fec60cd3b18f812bdbf0d7999afe1\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\016fec60cd3b18f812bdbf0d7999afe1\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d93019542474b223facf92e9b8c4756e\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d93019542474b223facf92e9b8c4756e\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d8d0df42aba3ceb53ae1825c0fbea319\jetified-play-services-measurement-base-19.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d8d0df42aba3ceb53ae1825c0fbea319\jetified-play-services-measurement-base-19.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\345ab3ac7d764c8b10080acb609ca770\jetified-play-services-basement-17.1.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\345ab3ac7d764c8b10080acb609ca770\jetified-play-services-basement-17.1.1\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.room:room-runtime:2.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\afcab2bd9b752eeb09c1c2439a4b1092\room-runtime-2.1.0\AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.room:room-runtime:2.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\afcab2bd9b752eeb09c1c2439a4b1092\room-runtime-2.1.0\AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.core:core:1.3.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\f8430d683fe2ebfe4c92d6c8cefa7ccc\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\f8430d683fe2ebfe4c92d6c8cefa7ccc\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\a65b0d7abd466f95ef04abef4b13a29f\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\a65b0d7abd466f95ef04abef4b13a29f\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d32cf8775d7f8e024ee22c72bc02b849\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d32cf8775d7f8e024ee22c72bc02b849\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d21114c96aa38dd04ee37ff248ea6ead\jetified-installreferrer-1.0\AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d21114c96aa38dd04ee37ff248ea6ead\jetified-installreferrer-1.0\AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\f8430d683fe2ebfe4c92d6c8cefa7ccc\core-1.3.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:21:16-48
+	android:roundIcon
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:23:16-61
+	android:icon
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:22:16-50
+	android:allowBackup
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:24:16-43
+	android:theme
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:25:16-47
+	android:networkSecurityConfig
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:26:16-76
+	android:name
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:20:16-47
+meta-data#com.dieam.reactnativepushnotification.notification_foreground
+ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:29:5-30:39
+	android:value
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:30:17-37
+	android:name
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:29:17-93
+meta-data#com.dieam.reactnativepushnotification.notification_color
+ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:32:5-33:50
+	android:resource
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:33:17-48
+	android:name
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:32:17-88
+receiver#com.dieam.reactnativepushnotification.modules.RNPushNotificationActions
+ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:35:5-104
+	android:name
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:35:15-101
+receiver#com.dieam.reactnativepushnotification.modules.RNPushNotificationPublisher
+ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:36:5-106
+	android:name
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:36:15-103
+receiver#com.dieam.reactnativepushnotification.modules.RNPushNotificationBootEventReceiver
+ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:37:5-43:16
+	android:name
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:37:15-111
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:38:9-42:25
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:39:13-75
+	android:name
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:39:21-72
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:40:13-78
+	android:name
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:40:21-75
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:41:13-77
+	android:name
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:41:21-75
+service#com.dieam.reactnativepushnotification.modules.RNPushNotificationListenerService
+ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:45:5-51:15
+	android:exported
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:47:9-33
+	android:name
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:46:9-103
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:48:9-50:25
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:49:13-74
+	android:name
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:49:21-71
+meta-data#expo.modules.updates.EXPO_UPDATE_URL
+ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:52:5-121
+	android:value
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:52:68-118
+	android:name
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:52:16-67
+meta-data#expo.modules.updates.EXPO_SDK_VERSION
+ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:53:5-94
+	android:value
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:53:69-91
+	android:name
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:53:16-68
+meta-data#expo.modules.updates.ENABLED
+ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:54:5-82
+	android:value
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:54:60-80
+	android:name
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:54:16-59
+meta-data#expo.modules.updates.EXPO_UPDATES_CHECK_ON_LAUNCH
+ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:55:5-105
+	android:value
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:55:81-103
+	android:name
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:55:16-80
+meta-data#expo.modules.updates.EXPO_UPDATES_LAUNCH_WAIT_MS
+ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:56:5-99
+	android:value
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:56:80-97
+	android:name
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:56:16-79
+meta-data#expo.modules.updates.EXPO_RELEASE_CHANNEL
+ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:57:5-99
+	android:value
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:57:73-96
+	android:name
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:57:16-72
+activity#com.iflashapps.mumsnbub.MainActivity
+ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:59:3-65:16
+	android:label
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:60:34-66
+	android:launchMode
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:60:145-176
+	android:windowSoftInputMode
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:60:177-219
+	android:configChanges
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:60:67-144
+	android:theme
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:60:220-265
+	android:name
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:60:5-33
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:61:7-64:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:62:9-60
+	android:name
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:62:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:63:9-68
+	android:name
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:63:19-66
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:66:5-81
+	android:name
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:66:15-79
+uses-sdk
+INJECTED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml
+MERGED from [:unimodules-react-native-adapter] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-splash-screen] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-splash-screen\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-splash-screen] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-splash-screen\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-updates] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-updates\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-updates] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-updates\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:astrocoders_react-native-selectable-text] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@astrocoders\react-native-selectable-text\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:astrocoders_react-native-selectable-text] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@astrocoders\react-native-selectable-text\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_async-storage] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_async-storage] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_checkbox] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-community\checkbox\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_checkbox] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-community\checkbox\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_datetimepicker] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-community\datetimepicker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_datetimepicker] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-community\datetimepicker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_masked-view] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_slider] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-community\slider\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_slider] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-community\slider\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_analytics] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\analytics\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_analytics] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\analytics\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_auth] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_auth] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_firestore] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\firestore\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_firestore] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\firestore\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_app] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\app\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_app] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\app\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-calendar-events] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\react-native-calendar-events\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-calendar-events] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\react-native-calendar-events\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fast-image] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\react-native-fast-image\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fast-image] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\react-native-fast-image\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-push-notification] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\react-native-push-notification\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-push-notification] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\react-native-push-notification\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\react-native-screens\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\react-native-screens\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-youtube] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\react-native-youtube\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-youtube] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\react-native-youtube\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.64.2] C:\Users\q\.gradle\caches\transforms-2\files-2.1\8dfc6ffb3c98bda845b6e54856ddd71b\jetified-react-native-0.64.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.64.2] C:\Users\q\.gradle\caches\transforms-2\files-2.1\8dfc6ffb3c98bda845b6e54856ddd71b\jetified-react-native-0.64.2\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-file-system] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-file-system] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d0fa3b1b9a4e5abec72f523c93934511\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d0fa3b1b9a4e5abec72f523c93934511\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\58ef1f2a3d6d82aee03f90fa07d708ba\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\58ef1f2a3d6d82aee03f90fa07d708ba\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7bbea7a9c5711abbc04b45298a13d391\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7bbea7a9c5711abbc04b45298a13d391\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\f0d92c76ac842788f4e354f1c0348b67\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\f0d92c76ac842788f4e354f1c0348b67\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:expo-application] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-application\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-application] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-application\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-constants\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-constants\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-error-recovery] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-error-recovery\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-error-recovery] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-error-recovery\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-font] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-font\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-font] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-font\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-image-loader] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-image-loader\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-image-loader] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-image-loader\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-keep-awake\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-keep-awake\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-modules-core] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-modules-core\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-modules-core] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-modules-core\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-structured-headers] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-structured-headers\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-structured-headers] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-structured-headers\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-app-loader] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\unimodules-app-loader\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-app-loader] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\unimodules-app-loader\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\unimodules-task-manager-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\unimodules-task-manager-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@unimodules\core\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@unimodules\core\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-updates-interface] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-updates-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-updates-interface] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-updates-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\q\.gradle\caches\transforms-2\files-2.1\2b313c22aefa462b4ae8606839555b95\jetified-android-jsc-r245459\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\q\.gradle\caches\transforms-2\files-2.1\2b313c22aefa462b4ae8606839555b95\jetified-android-jsc-r245459\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\react-native-reanimated\android\build\.transforms\7ba834e573fb57fb485472aa6a339d10\jetified-react-native-reanimated-64-jsc\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\react-native-reanimated\android\build\.transforms\7ba834e573fb57fb485472aa6a339d10\jetified-react-native-reanimated-64-jsc\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\360319d80e27666e420d6222c062d2f1\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\360319d80e27666e420d6222c062d2f1\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\614feabac1c9d26b17a8139d7956ee93\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\614feabac1c9d26b17a8139d7956ee93\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7447e94a65cf0b9e8b14dc5cfdf99840\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7447e94a65cf0b9e8b14dc5cfdf99840\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\e21269082c3e7c37343650d0cc60b9ba\jetified-transport-runtime-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\e21269082c3e7c37343650d0cc60b9ba\jetified-transport-runtime-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\6b335435edd2b3bbcd97cbb881d263ba\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\6b335435edd2b3bbcd97cbb881d263ba\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7ce2103973e614cf4dde6db1aecf52dd\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7ce2103973e614cf4dde6db1aecf52dd\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\715577c12a4d3f0a3c4871fdda9dce15\jetified-fresco-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\715577c12a4d3f0a3c4871fdda9dce15\jetified-fresco-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\1672c5eb367103677daad139eaab6424\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\1672c5eb367103677daad139eaab6424\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\30fabef2e8d3d888bf9919960753b749\jetified-drawee-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\30fabef2e8d3d888bf9919960753b749\jetified-drawee-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\e84ca8b76793d61db5772da1671a5034\jetified-nativeimagefilters-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\e84ca8b76793d61db5772da1671a5034\jetified-nativeimagefilters-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\695f353f0b8b36533a5d6fe0ea570b25\jetified-imagepipeline-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\695f353f0b8b36533a5d6fe0ea570b25\jetified-imagepipeline-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\ce5274f34b122edc259e63f3c5492e08\jetified-nativeimagetranscoder-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\ce5274f34b122edc259e63f3c5492e08\jetified-nativeimagetranscoder-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\09abaef93e30cb1d9fe09522b341f7d9\jetified-imagepipeline-base-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\09abaef93e30cb1d9fe09522b341f7d9\jetified-imagepipeline-base-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\e9ea1fd999e3357770223419236709bc\jetified-soloader-0.9.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\e9ea1fd999e3357770223419236709bc\jetified-soloader-0.9.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:23.0.2] C:\Users\q\.gradle\caches\transforms-2\files-2.1\dadbf14fe9e8a070145a128008dbea2b\jetified-firebase-firestore-23.0.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:23.0.2] C:\Users\q\.gradle\caches\transforms-2\files-2.1\dadbf14fe9e8a070145a128008dbea2b\jetified-firebase-firestore-23.0.2\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\9f6081385206b8b1c8cefb7493ed3290\jetified-grpc-android-1.28.0\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\9f6081385206b8b1c8cefb7493ed3290\jetified-grpc-android-1.28.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\117371cbaa60254c4f9b5cc6f71d5780\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\117371cbaa60254c4f9b5cc6f71d5780\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\dedff52b59daa9307a013d7e237c95fd\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\dedff52b59daa9307a013d7e237c95fd\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\427ccc83ca02ff7c88804996d881ed38\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\427ccc83ca02ff7c88804996d881ed38\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\8756a4a1b28a782f4c7434482677b953\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\8756a4a1b28a782f4c7434482677b953\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\cd5fb0071cbc21970fc3d079c98266e1\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\cd5fb0071cbc21970fc3d079c98266e1\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\4aca5ebb8bc1aab19c7925eb2ab19adc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\4aca5ebb8bc1aab19c7925eb2ab19adc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\91096b674d51146cb028f0d82f8f5339\jetified-play-services-auth-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\91096b674d51146cb028f0d82f8f5339\jetified-play-services-auth-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\9be31ed436f47ae2b8b6fad23c9658e3\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\9be31ed436f47ae2b8b6fad23c9658e3\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\dd7be4ea6629b1e9c64a9a981bdd7847\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\dd7be4ea6629b1e9c64a9a981bdd7847\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\50f38332c5e9c84eb9eac0c681ce3761\jetified-firebase-database-collection-18.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\50f38332c5e9c84eb9eac0c681ce3761\jetified-firebase-database-collection-18.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\21927a8180efebde93f368a3ac143faf\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\21927a8180efebde93f368a3ac143faf\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\99298fcc2477407b879a5a2843ae646c\jetified-firebase-analytics-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\99298fcc2477407b879a5a2843ae646c\jetified-firebase-analytics-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\33dd554b9e5392b54074801ae93e62d3\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\33dd554b9e5392b54074801ae93e62d3\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c929ae051cc6a6bab61aae3f23746900\jetified-firebase-installations-17.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c929ae051cc6a6bab61aae3f23746900\jetified-firebase-installations-17.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\2971e6876e02845caf5ba775a0295ace\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\2971e6876e02845caf5ba775a0295ace\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7429cb0d5e7130993f3ad3aba5557ce6\jetified-firebase-common-20.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7429cb0d5e7130993f3ad3aba5557ce6\jetified-firebase-common-20.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\560f02eb4879dd4292df069ecc8b32f8\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\560f02eb4879dd4292df069ecc8b32f8\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\bb9418d4d89851ad766a7c57e1732cf9\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\bb9418d4d89851ad766a7c57e1732cf9\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d23b90304703d0bad873fe9ce50bccf9\jetified-firebase-installations-interop-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d23b90304703d0bad873fe9ce50bccf9\jetified-firebase-installations-interop-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\8f65dbdcfe569455e3d6d815daa5a6bb\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\8f65dbdcfe569455e3d6d815daa5a6bb\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\07a5700badd935fc2cc591d00aab10a5\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\07a5700badd935fc2cc591d00aab10a5\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\f903e08474b9817ac1f195179c425897\jetified-play-services-measurement-sdk-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\f903e08474b9817ac1f195179c425897\jetified-play-services-measurement-sdk-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\1bb9a5b588ad2903b67ce677037dafa3\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\1bb9a5b588ad2903b67ce677037dafa3\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\5e0d979659ace39f1be8989d58cd3217\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\5e0d979659ace39f1be8989d58cd3217\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\016fec60cd3b18f812bdbf0d7999afe1\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\016fec60cd3b18f812bdbf0d7999afe1\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d93019542474b223facf92e9b8c4756e\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d93019542474b223facf92e9b8c4756e\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\2f5da2fa2bb4d9fb2ce05f9d37129c5f\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\2f5da2fa2bb4d9fb2ce05f9d37129c5f\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d8d0df42aba3ceb53ae1825c0fbea319\jetified-play-services-measurement-base-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d8d0df42aba3ceb53ae1825c0fbea319\jetified-play-services-measurement-base-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\345ab3ac7d764c8b10080acb609ca770\jetified-play-services-basement-17.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\345ab3ac7d764c8b10080acb609ca770\jetified-play-services-basement-17.1.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\1fb068f983f3fbc2faa5711349d66ef2\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\1fb068f983f3fbc2faa5711349d66ef2\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\028b46f84c892467fa3bf9bea19155fe\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\028b46f84c892467fa3bf9bea19155fe\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\cdd4b60ad8e178814597610e6bd16697\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\cdd4b60ad8e178814597610e6bd16697\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\3f929a544c43ff67428e6393b4ad5b55\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\3f929a544c43ff67428e6393b4ad5b55\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\8d172c177ff0a8e5dbec9a932219052e\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\8d172c177ff0a8e5dbec9a932219052e\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\afcab2bd9b752eeb09c1c2439a4b1092\room-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\afcab2bd9b752eeb09c1c2439a4b1092\room-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\4fd8cf7271f8e30dadd908cc177ccf32\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\4fd8cf7271f8e30dadd908cc177ccf32\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\4fd06f21cf3b182e1646d0d701171e3e\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\4fd06f21cf3b182e1646d0d701171e3e\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c59fe6f1617d9e81affa9d4b2f6badab\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c59fe6f1617d9e81affa9d4b2f6badab\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\07e41c99ae9fd78958f8f3c875e7287e\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\07e41c99ae9fd78958f8f3c875e7287e\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\305d27d6dba9c78df8a201c748af6589\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\305d27d6dba9c78df8a201c748af6589\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7b35d9dee8590eff54ff4ef6a73fbb34\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7b35d9dee8590eff54ff4ef6a73fbb34\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\aa112b6feddc74110055541902026aab\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\aa112b6feddc74110055541902026aab\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\0520780cc5f16ee97569fe2fed98f2cf\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\0520780cc5f16ee97569fe2fed98f2cf\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\ba6b59894dfea597440a19523ce01e4a\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\ba6b59894dfea597440a19523ce01e4a\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\34790bccffb9a148cf4e1fd4c0fee67d\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\34790bccffb9a148cf4e1fd4c0fee67d\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\f8430d683fe2ebfe4c92d6c8cefa7ccc\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\f8430d683fe2ebfe4c92d6c8cefa7ccc\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\33328521febd43b03ef477638f8dee7b\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\33328521febd43b03ef477638f8dee7b\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\5fe3d1a97fcbcfa9b8e8fb45460294a3\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\5fe3d1a97fcbcfa9b8e8fb45460294a3\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\a0fe2ebfe93c3c6cb8d1fff3e44848a8\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\a0fe2ebfe93c3c6cb8d1fff3e44848a8\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\a65b0d7abd466f95ef04abef4b13a29f\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\a65b0d7abd466f95ef04abef4b13a29f\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\eb8b4d05c73a831a21aa4372a2aeb9e9\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\eb8b4d05c73a831a21aa4372a2aeb9e9\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\40b85b7edd2e871b578be23e9a58cdfc\jetified-transport-api-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\40b85b7edd2e871b578be23e9a58cdfc\jetified-transport-api-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\e460c4ae0e2bd1adf9c0ee4322456cdc\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\e460c4ae0e2bd1adf9c0ee4322456cdc\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d32cf8775d7f8e024ee22c72bc02b849\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d32cf8775d7f8e024ee22c72bc02b849\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\ff5def1e945b45657b1513128cfefa52\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\ff5def1e945b45657b1513128cfefa52\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\0fa70d4116f6c47875ebd64c0256665b\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\0fa70d4116f6c47875ebd64c0256665b\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\b23ab381698dde15a14d99366d8a5493\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\b23ab381698dde15a14d99366d8a5493\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\6838ec1c06a88d206cbf29deb1cb7a59\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\6838ec1c06a88d206cbf29deb1cb7a59\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\be9f2ddc0bea934d2f7cd1476524ba53\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\be9f2ddc0bea934d2f7cd1476524ba53\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\1ee4798729735cc28d454ce1c049462c\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\1ee4798729735cc28d454ce1c049462c\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\a9917c6f02d3370c18a78dab2a98c3f2\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\a9917c6f02d3370c18a78dab2a98c3f2\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c45c3ade7f9d95169dd8514e91353b13\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c45c3ade7f9d95169dd8514e91353b13\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c8d56ae1413fc702191a092d6ddd56e6\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c8d56ae1413fc702191a092d6ddd56e6\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c18561bff2f10ed21bf714dcddb5113b\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c18561bff2f10ed21bf714dcddb5113b\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\5ad2a6c77a471c77fbad3feae655c7b0\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\5ad2a6c77a471c77fbad3feae655c7b0\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c32485061b7c11da3b3748bedfd17a96\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c32485061b7c11da3b3748bedfd17a96\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d21114c96aa38dd04ee37ff248ea6ead\jetified-installreferrer-1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d21114c96aa38dd04ee37ff248ea6ead\jetified-installreferrer-1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\e2aebb060d66a22f32f5bcf68fd551c2\jetified-fbcore-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\e2aebb060d66a22f32f5bcf68fd551c2\jetified-fbcore-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\3d2bd599ac1f8327c81b15982fa78fdb\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\3d2bd599ac1f8327c81b15982fa78fdb\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml
+meta-data#org.unimodules.core.AppLoader#react-native-headless
+ADDED from [:unimodules-react-native-adapter] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:9-14:91
+	android:value
+		ADDED from [:unimodules-react-native-adapter] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\release\AndroidManifest.xml:14:13-88
+	android:name
+		ADDED from [:unimodules-react-native-adapter] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:13-79
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:expo-updates] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-updates\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-79
+MERGED from [:react-native-firebase_analytics] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\analytics\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-79
+MERGED from [:react-native-firebase_analytics] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\analytics\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-79
+MERGED from [:react-native-firebase_auth] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-79
+MERGED from [:react-native-firebase_auth] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-79
+MERGED from [:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-79
+MERGED from [:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\360319d80e27666e420d6222c062d2f1\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\360319d80e27666e420d6222c062d2f1\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7447e94a65cf0b9e8b14dc5cfdf99840\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7447e94a65cf0b9e8b14dc5cfdf99840\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\e21269082c3e7c37343650d0cc60b9ba\jetified-transport-runtime-3.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\e21269082c3e7c37343650d0cc60b9ba\jetified-transport-runtime-3.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-firestore:23.0.2] C:\Users\q\.gradle\caches\transforms-2\files-2.1\dadbf14fe9e8a070145a128008dbea2b\jetified-firebase-firestore-23.0.2\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:23.0.2] C:\Users\q\.gradle\caches\transforms-2\files-2.1\dadbf14fe9e8a070145a128008dbea2b\jetified-firebase-firestore-23.0.2\AndroidManifest.xml:13:5-79
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\9f6081385206b8b1c8cefb7493ed3290\jetified-grpc-android-1.28.0\AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\9f6081385206b8b1c8cefb7493ed3290\jetified-grpc-android-1.28.0\AndroidManifest.xml:11:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\33dd554b9e5392b54074801ae93e62d3\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\33dd554b9e5392b54074801ae93e62d3\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c929ae051cc6a6bab61aae3f23746900\jetified-firebase-installations-17.0.0\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c929ae051cc6a6bab61aae3f23746900\jetified-firebase-installations-17.0.0\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\560f02eb4879dd4292df069ecc8b32f8\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\560f02eb4879dd4292df069ecc8b32f8\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\07a5700badd935fc2cc591d00aab10a5\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\07a5700badd935fc2cc591d00aab10a5\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\1bb9a5b588ad2903b67ce677037dafa3\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\1bb9a5b588ad2903b67ce677037dafa3\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\2f5da2fa2bb4d9fb2ce05f9d37129c5f\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\2f5da2fa2bb4d9fb2ce05f9d37129c5f\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:expo-updates] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-updates\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-firebase_analytics] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\analytics\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-68
+MERGED from [:react-native-firebase_auth] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-68
+MERGED from [:react-native-firebase_auth] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\auth\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-68
+MERGED from [:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-68
+MERGED from [:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-68
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\360319d80e27666e420d6222c062d2f1\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:23:5-68
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\360319d80e27666e420d6222c062d2f1\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:23:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\33dd554b9e5392b54074801ae93e62d3\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\33dd554b9e5392b54074801ae93e62d3\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\560f02eb4879dd4292df069ecc8b32f8\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\560f02eb4879dd4292df069ecc8b32f8\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\07a5700badd935fc2cc591d00aab10a5\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\07a5700badd935fc2cc591d00aab10a5\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\1bb9a5b588ad2903b67ce677037dafa3\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\1bb9a5b588ad2903b67ce677037dafa3\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\2f5da2fa2bb4d9fb2ce05f9d37129c5f\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\2f5da2fa2bb4d9fb2ce05f9d37129c5f\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:react-native-firebase_analytics] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\analytics\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:22-65
+meta-data#firebase_analytics_collection_enabled
+ADDED from [:react-native-firebase_analytics] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\analytics\android\build\intermediates\library_manifest\release\AndroidManifest.xml:16:9-18:36
+	android:value
+		ADDED from [:react-native-firebase_analytics] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\analytics\android\build\intermediates\library_manifest\release\AndroidManifest.xml:18:13-33
+	android:name
+		ADDED from [:react-native-firebase_analytics] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\analytics\android\build\intermediates\library_manifest\release\AndroidManifest.xml:17:13-65
+service#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingHeadlessService
+ADDED from [:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:16:9-111
+	android:name
+		ADDED from [:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:16:18-108
+service#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingService
+ADDED from [:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:17:9-23:19
+	android:exported
+		ADDED from [:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from [:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:18:13-95
+receiver#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingReceiver
+ADDED from [:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:25:9-32:20
+	android:exported
+		ADDED from [:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:28:13-73
+	android:name
+		ADDED from [:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:26:13-96
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:29:13-31:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:30:17-81
+	android:name
+		ADDED from [:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:30:25-78
+meta-data#firebase_messaging_auto_init_enabled
+ADDED from [:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:34:9-36:36
+	android:value
+		ADDED from [:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:36:13-33
+	android:name
+		ADDED from [:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:35:13-64
+meta-data#com.google.firebase.messaging.default_notification_channel_id
+ADDED from [:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:37:9-39:32
+	android:value
+		ADDED from [:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:39:13-29
+	android:name
+		ADDED from [:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:38:13-89
+meta-data#com.google.firebase.messaging.default_notification_color
+ADDED from [:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:40:9-42:47
+	android:resource
+		ADDED from [:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:42:13-44
+	android:name
+		ADDED from [:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:41:13-84
+queries
+ADDED from [:expo-file-system] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:16:5-22:15
+intent#action:name:android.intent.action.OPEN_DOCUMENT_TREE
+ADDED from [:expo-file-system] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:19:9-21:18
+action#android.intent.action.OPEN_DOCUMENT_TREE
+ADDED from [:expo-file-system] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:20:13-79
+	android:name
+		ADDED from [:expo-file-system] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:20:21-76
+provider#expo.modules.filesystem.FileSystemFileProvider
+ADDED from [:expo-file-system] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:25:9-34:20
+	android:grantUriPermissions
+		ADDED from [:expo-file-system] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:29:13-47
+	android:authorities
+		ADDED from [:expo-file-system] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:27:13-74
+	android:exported
+		ADDED from [:expo-file-system] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:28:13-37
+	tools:replace
+		ADDED from [:expo-file-system] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:30:13-48
+	android:name
+		ADDED from [:expo-file-system] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:26:13-74
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:expo-file-system] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:31:13-33:70
+	android:resource
+		ADDED from [:expo-file-system] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:33:17-67
+	android:name
+		ADDED from [:expo-file-system] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:32:17-67
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:33:13-43:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:39:17-42:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:41:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:40:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:42:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:51:13-61:29
+service#com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:64:9-73:19
+	android:enabled
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:66:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:67:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:65:13-101
+intent-filter#action:name:com.google.firebase.auth.api.gms.service.START+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:68:13-72:29
+action#com.google.firebase.auth.api.gms.service.START
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:69:17-89
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:69:25-86
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\360319d80e27666e420d6222c062d2f1\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:49:9-55:19
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\360319d80e27666e420d6222c062d2f1\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:49:9-55:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\614feabac1c9d26b17a8139d7956ee93\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\614feabac1c9d26b17a8139d7956ee93\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-firestore:23.0.2] C:\Users\q\.gradle\caches\transforms-2\files-2.1\dadbf14fe9e8a070145a128008dbea2b\jetified-firebase-firestore-23.0.2\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:23.0.2] C:\Users\q\.gradle\caches\transforms-2\files-2.1\dadbf14fe9e8a070145a128008dbea2b\jetified-firebase-firestore-23.0.2\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\33dd554b9e5392b54074801ae93e62d3\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\33dd554b9e5392b54074801ae93e62d3\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c929ae051cc6a6bab61aae3f23746900\jetified-firebase-installations-17.0.0\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c929ae051cc6a6bab61aae3f23746900\jetified-firebase-installations-17.0.0\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7429cb0d5e7130993f3ad3aba5557ce6\jetified-firebase-common-20.0.0\AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7429cb0d5e7130993f3ad3aba5557ce6\jetified-firebase-common-20.0.0\AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:76:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7429cb0d5e7130993f3ad3aba5557ce6\jetified-firebase-common-20.0.0\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7429cb0d5e7130993f3ad3aba5557ce6\jetified-firebase-common-20.0.0\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:75:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:77:13-79:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:79:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:78:17-109
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\360319d80e27666e420d6222c062d2f1\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:25:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\560f02eb4879dd4292df069ecc8b32f8\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\560f02eb4879dd4292df069ecc8b32f8\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\360319d80e27666e420d6222c062d2f1\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:25:22-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\360319d80e27666e420d6222c062d2f1\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:28:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\360319d80e27666e420d6222c062d2f1\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\360319d80e27666e420d6222c062d2f1\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:31:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\360319d80e27666e420d6222c062d2f1\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:29:13-78
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\360319d80e27666e420d6222c062d2f1\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:41:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\360319d80e27666e420d6222c062d2f1\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:44:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\360319d80e27666e420d6222c062d2f1\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:43:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\360319d80e27666e420d6222c062d2f1\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:42:13-82
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\360319d80e27666e420d6222c062d2f1\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:52:13-54:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\360319d80e27666e420d6222c062d2f1\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:54:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\360319d80e27666e420d6222c062d2f1\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:53:17-119
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\614feabac1c9d26b17a8139d7956ee93\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\614feabac1c9d26b17a8139d7956ee93\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\614feabac1c9d26b17a8139d7956ee93\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:29:17-115
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7447e94a65cf0b9e8b14dc5cfdf99840\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\e21269082c3e7c37343650d0cc60b9ba\jetified-transport-runtime-3.0.0\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\e21269082c3e7c37343650d0cc60b9ba\jetified-transport-runtime-3.0.0\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7447e94a65cf0b9e8b14dc5cfdf99840\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7447e94a65cf0b9e8b14dc5cfdf99840\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7447e94a65cf0b9e8b14dc5cfdf99840\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7447e94a65cf0b9e8b14dc5cfdf99840\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7447e94a65cf0b9e8b14dc5cfdf99840\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\e21269082c3e7c37343650d0cc60b9ba\jetified-transport-runtime-3.0.0\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\e21269082c3e7c37343650d0cc60b9ba\jetified-transport-runtime-3.0.0\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\e21269082c3e7c37343650d0cc60b9ba\jetified-transport-runtime-3.0.0\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\e21269082c3e7c37343650d0cc60b9ba\jetified-transport-runtime-3.0.0\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\e21269082c3e7c37343650d0cc60b9ba\jetified-transport-runtime-3.0.0\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\e21269082c3e7c37343650d0cc60b9ba\jetified-transport-runtime-3.0.0\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\e21269082c3e7c37343650d0cc60b9ba\jetified-transport-runtime-3.0.0\AndroidManifest.xml:33:13-132
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:23.0.2] C:\Users\q\.gradle\caches\transforms-2\files-2.1\dadbf14fe9e8a070145a128008dbea2b\jetified-firebase-firestore-23.0.2\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:23.0.2] C:\Users\q\.gradle\caches\transforms-2\files-2.1\dadbf14fe9e8a070145a128008dbea2b\jetified-firebase-firestore-23.0.2\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:23.0.2] C:\Users\q\.gradle\caches\transforms-2\files-2.1\dadbf14fe9e8a070145a128008dbea2b\jetified-firebase-firestore-23.0.2\AndroidManifest.xml:21:17-111
+meta-data#com.bumptech.glide.integration.okhttp3.OkHttpGlideModule
+ADDED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\117371cbaa60254c4f9b5cc6f71d5780\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:11:9-13:43
+	android:value
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\117371cbaa60254c4f9b5cc6f71d5780\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:13:13-40
+	android:name
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\117371cbaa60254c4f9b5cc6f71d5780\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:12:13-84
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\4aca5ebb8bc1aab19c7925eb2ab19adc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\4aca5ebb8bc1aab19c7925eb2ab19adc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\4aca5ebb8bc1aab19c7925eb2ab19adc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\4aca5ebb8bc1aab19c7925eb2ab19adc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\4aca5ebb8bc1aab19c7925eb2ab19adc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\4aca5ebb8bc1aab19c7925eb2ab19adc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\4aca5ebb8bc1aab19c7925eb2ab19adc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\4aca5ebb8bc1aab19c7925eb2ab19adc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\4aca5ebb8bc1aab19c7925eb2ab19adc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\4aca5ebb8bc1aab19c7925eb2ab19adc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\21927a8180efebde93f368a3ac143faf\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\21927a8180efebde93f368a3ac143faf\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\21927a8180efebde93f368a3ac143faf\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\21927a8180efebde93f368a3ac143faf\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\33dd554b9e5392b54074801ae93e62d3\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\33dd554b9e5392b54074801ae93e62d3\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\33dd554b9e5392b54074801ae93e62d3\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c929ae051cc6a6bab61aae3f23746900\jetified-firebase-installations-17.0.0\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c929ae051cc6a6bab61aae3f23746900\jetified-firebase-installations-17.0.0\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c929ae051cc6a6bab61aae3f23746900\jetified-firebase-installations-17.0.0\AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7429cb0d5e7130993f3ad3aba5557ce6\jetified-firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7429cb0d5e7130993f3ad3aba5557ce6\jetified-firebase-common-20.0.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7429cb0d5e7130993f3ad3aba5557ce6\jetified-firebase-common-20.0.0\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7429cb0d5e7130993f3ad3aba5557ce6\jetified-firebase-common-20.0.0\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7429cb0d5e7130993f3ad3aba5557ce6\jetified-firebase-common-20.0.0\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7429cb0d5e7130993f3ad3aba5557ce6\jetified-firebase-common-20.0.0\AndroidManifest.xml:27:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\07a5700badd935fc2cc591d00aab10a5\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\1bb9a5b588ad2903b67ce677037dafa3\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\1bb9a5b588ad2903b67ce677037dafa3\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:26:5-110
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d21114c96aa38dd04ee37ff248ea6ead\jetified-installreferrer-1.0\AndroidManifest.xml:9:5-110
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d21114c96aa38dd04ee37ff248ea6ead\jetified-installreferrer-1.0\AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\07a5700badd935fc2cc591d00aab10a5\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\07a5700badd935fc2cc591d00aab10a5\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\07a5700badd935fc2cc591d00aab10a5\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\07a5700badd935fc2cc591d00aab10a5\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\07a5700badd935fc2cc591d00aab10a5\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\07a5700badd935fc2cc591d00aab10a5\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\07a5700badd935fc2cc591d00aab10a5\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\07a5700badd935fc2cc591d00aab10a5\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\07a5700badd935fc2cc591d00aab10a5\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\07a5700badd935fc2cc591d00aab10a5\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\07a5700badd935fc2cc591d00aab10a5\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\07a5700badd935fc2cc591d00aab10a5\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\07a5700badd935fc2cc591d00aab10a5\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\07a5700badd935fc2cc591d00aab10a5\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:40:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\345ab3ac7d764c8b10080acb609ca770\jetified-play-services-basement-17.1.1\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\345ab3ac7d764c8b10080acb609ca770\jetified-play-services-basement-17.1.1\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\345ab3ac7d764c8b10080acb609ca770\jetified-play-services-basement-17.1.1\AndroidManifest.xml:24:13-58
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\afcab2bd9b752eeb09c1c2439a4b1092\room-runtime-2.1.0\AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\afcab2bd9b752eeb09c1c2439a4b1092\room-runtime-2.1.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\afcab2bd9b752eeb09c1c2439a4b1092\room-runtime-2.1.0\AndroidManifest.xml:26:13-74
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:27:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:28:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:28:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:31:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:34:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:37:5-91
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:37:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:38:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:38:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:39:5-93
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:39:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:42:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:45:5-82
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:45:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:46:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:46:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:49:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:49:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:50:5-89
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:50:22-86

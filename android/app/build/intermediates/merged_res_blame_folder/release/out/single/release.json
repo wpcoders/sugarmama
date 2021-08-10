@@ -1,0 +1,282 @@
+[
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnativeflashmessage_src_icons_fm_icon_warning.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnativeflashmessage_src_icons_fm_icon_warning.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxxhdpi\\node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_node_modules_reactnativeflashmessage_src_icons_fm_icon_success.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnativeflashmessage_src_icons_fm_icon_success.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_entities_lib_maps_legacy.json.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_entities_lib_maps_legacy.json"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnativeflashmessage_src_icons_fm_icon_info.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnativeflashmessage_src_icons_fm_icon_info.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable_splashscreen_image.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\src\\main\\res\\drawable\\splashscreen_image.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_node_modules_reactnativeflashmessage_src_icons_fm_icon_warning.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnativeflashmessage_src_icons_fm_icon_warning.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_characterentitieslegacy_index.json.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_characterentitieslegacy_index.json"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_profile_focused.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_profile_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxxhdpi\\node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_welcome.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_welcome.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_home.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_home.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_characterentitieshtml4_index.json.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_characterentitieshtml4_index.json"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_materialcommunityicons.json.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_materialcommunityicons.json"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_saved.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_saved.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_ionicons.json.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_ionicons.json"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_csscolorkeywords_colors.json.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_csscolorkeywords_colors.json"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxxhdpi\\node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnavigation_stack_src_views_assets_backiconmask.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnavigation_stack_src_views_assets_backiconmask.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxxhdpi\\node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_node_modules_reactnativeflashmessage_src_icons_fm_icon_info.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnativeflashmessage_src_icons_fm_icon_info.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnativepaper_src_assets_backchevron.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnativepaper_src_assets_backchevron.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_node_modules_reactnativeflashmessage_src_icons_fm_icon_info.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnativeflashmessage_src_icons_fm_icon_info.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_entities_lib_maps_xml.json.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_entities_lib_maps_xml.json"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-hdpi\\node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_profile.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_welcomebg.jpg.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_welcomebg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_entities_lib_maps_entities.json.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_entities_lib_maps_entities.json"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_stringifyentities_lib_constant_dangerous.json.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_stringifyentities_lib_constant_dangerous.json"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxxhdpi\\node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_node_modules_reactnativeflashmessage_src_icons_fm_icon_success.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnativeflashmessage_src_icons_fm_icon_success.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnativeflashmessage_src_icons_fm_icon_success.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnativeflashmessage_src_icons_fm_icon_success.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_diary.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_diary.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-hdpi\\node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_logo.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable_splashscreen.xml.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\src\\main\\res\\drawable\\splashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_node_modules_reactnativeflashmessage_src_icons_fm_icon_danger.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnativeflashmessage_src_icons_fm_icon_danger.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-hdpi\\node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_ionicons.ttf.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_ionicons.ttf"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-hdpi\\node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-hdpi\\node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnativeflashmessage_src_icons_fm_icon_danger.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnativeflashmessage_src_icons_fm_icon_danger.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_node_modules_reactnativeflashmessage_src_icons_fm_icon_warning.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnativeflashmessage_src_icons_fm_icon_warning.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_entities_lib_maps_decode.json.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_entities_lib_maps_decode.json"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_node_modules_reactnativeflashmessage_src_icons_fm_icon_danger.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnativeflashmessage_src_icons_fm_icon_danger.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_materialcommunityicons.ttf.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_materialcommunityicons.ttf"
+    },
+    {
+        "merged": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "C:\\Users\\q\\WebstormProjects\\sugar-mama-mobile(3)\\sugar-mama-mobile\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnativecalendars_src_img_down.png"
+    }
+]

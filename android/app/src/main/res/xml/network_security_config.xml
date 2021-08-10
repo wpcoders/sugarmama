@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">demo.hotechie.com</domain>
+        <domain includeSubdomains="true">demo.wetech.hk</domain>
+        <domain includeSubdomains="true">168.63.210.124</domain>
+        <domain includeSubdomains="true">192.168.0.115</domain>
+    </domain-config>
+</network-security-config>

@@ -1,0 +1,662 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.iflashapps.mumsnbub"
+4    android:versionCode="14"
+5    android:versionName="5.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="29" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:3:3-75
+11-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:3:20-73
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:2:3-64
+12-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:2:20-62
+13    <uses-permission android:name="android.permission.MANAGE_DOCUMENTS" />
+13-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:4:3-72
+13-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:4:20-70
+14    <uses-permission android:name="android.permission.READ_INTERNAL_STORAGE" />
+14-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:5:3-77
+14-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:5:20-75
+15    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+15-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:6:3-72
+15-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:6:20-70
+16    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+16-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:7:3-71
+16-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:7:20-69
+17    <uses-permission android:name="android.permission.VIBRATE" />
+17-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:8:3-63
+17-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:8:20-61
+18    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+18-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:9:3-77
+18-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:9:20-75
+19    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+19-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:10:3-78
+19-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:10:20-76
+20    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+20-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:11:3-76
+20-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:11:20-74
+21    <uses-permission android:name="android.permission.CAMERA" />
+21-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:12:3-62
+21-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:12:20-60
+22    <uses-permission android:name="android.permission.READ_CONTACTS" />
+22-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:13:3-69
+22-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:13:20-67
+23    <uses-permission android:name="android.permission.READ_CALENDAR" />
+23-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:14:3-69
+23-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:14:20-67
+24    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+24-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:15:3-70
+24-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:15:20-68
+25    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+25-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:16:3-77
+25-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:16:20-75
+26    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+26-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:17:3-68
+26-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:17:20-66
+27    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+27-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:18:3-78
+27-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:18:20-76
+28    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+28-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:19:3-70
+28-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:19:20-68
+29    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+29-->[com.facebook.flipper:flipper:0.75.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\e1d2aa9c4394723ad18567b7f6543561\jetified-flipper-0.75.1\AndroidManifest.xml:16:5-76
+29-->[com.facebook.flipper:flipper:0.75.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\e1d2aa9c4394723ad18567b7f6543561\jetified-flipper-0.75.1\AndroidManifest.xml:16:22-73
+30    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+30-->[:expo-updates] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-updates\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-79
+30-->[:expo-updates] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-updates\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:22-76
+31    <uses-permission android:name="android.permission.WAKE_LOCK" />
+31-->[:react-native-firebase_analytics] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\analytics\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-68
+31-->[:react-native-firebase_analytics] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\analytics\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:22-65
+32
+33    <queries>
+33-->[:expo-file-system] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-22:15
+34
+35        <!-- Query open documents -->
+36        <intent>
+36-->[:expo-file-system] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:9-21:18
+37            <action android:name="android.intent.action.OPEN_DOCUMENT_TREE" />
+37-->[:expo-file-system] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:13-79
+37-->[:expo-file-system] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:21-76
+38        </intent>
+39    </queries> <!-- Required by older versions of Google Play services to create IID tokens -->
+40    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+40-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\360319d80e27666e420d6222c062d2f1\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:25:5-82
+40-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\360319d80e27666e420d6222c062d2f1\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:25:22-79
+41    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" /> <!-- for android -->
+41-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\07a5700badd935fc2cc591d00aab10a5\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:26:5-110
+41-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\07a5700badd935fc2cc591d00aab10a5\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:26:22-107
+42    <!-- <uses-permission android:name="com.android.launcher.permission.READ_SETTINGS"/> -->
+43    <!-- <uses-permission android:name="com.android.launcher.permission.WRITE_SETTINGS"/> -->
+44    <!-- <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" /> -->
+45    <!-- <uses-permission android:name="com.android.launcher.permission.UNINSTALL_SHORTCUT" /> -->
+46    <!-- for Samsung -->
+47    <uses-permission android:name="com.sec.android.provider.badge.permission.READ" />
+47-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:19:5-86
+47-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:19:22-83
+48    <uses-permission android:name="com.sec.android.provider.badge.permission.WRITE" /> <!-- for htc -->
+48-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:20:5-87
+48-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:20:22-84
+49    <uses-permission android:name="com.htc.launcher.permission.READ_SETTINGS" />
+49-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:23:5-81
+49-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:23:22-78
+50    <uses-permission android:name="com.htc.launcher.permission.UPDATE_SHORTCUT" /> <!-- for sony -->
+50-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:24:5-83
+50-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:24:22-80
+51    <uses-permission android:name="com.sonyericsson.home.permission.BROADCAST_BADGE" />
+51-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:27:5-88
+51-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:27:22-85
+52    <uses-permission android:name="com.sonymobile.home.permission.PROVIDER_INSERT_BADGE" /> <!-- for apex -->
+52-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:28:5-92
+52-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:28:22-89
+53    <uses-permission android:name="com.anddoes.launcher.permission.UPDATE_COUNT" /> <!-- for solid -->
+53-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:31:5-84
+53-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:31:22-81
+54    <uses-permission android:name="com.majeur.launcher.permission.UPDATE_BADGE" /> <!-- for huawei -->
+54-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:34:5-83
+54-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:34:22-80
+55    <uses-permission android:name="com.huawei.android.launcher.permission.CHANGE_BADGE" />
+55-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:37:5-91
+55-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:37:22-88
+56    <uses-permission android:name="com.huawei.android.launcher.permission.READ_SETTINGS" />
+56-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:38:5-92
+56-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:38:22-89
+57    <uses-permission android:name="com.huawei.android.launcher.permission.WRITE_SETTINGS" /> <!-- for ZUK -->
+57-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:39:5-93
+57-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:39:22-90
+58    <uses-permission android:name="android.permission.READ_APP_BADGE" /> <!-- for OPPO -->
+58-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:42:5-73
+58-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:42:22-70
+59    <uses-permission android:name="com.oppo.launcher.permission.READ_SETTINGS" />
+59-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:45:5-82
+59-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:45:22-79
+60    <uses-permission android:name="com.oppo.launcher.permission.WRITE_SETTINGS" /> <!-- for EvMe -->
+60-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:46:5-83
+60-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:46:22-80
+61    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_READ" />
+61-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:49:5-88
+61-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:49:22-85
+62    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_WRITE" />
+62-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:50:5-89
+62-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\q\.gradle\caches\transforms-2\files-2.1\d3657ceb8a22086ddca45ade2500415a\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:50:22-86
+63
+64    <application
+64-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:20:3-67:17
+65        android:name="com.iflashapps.mumsnbub.MainApplication"
+65-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:20:16-47
+66        android:allowBackup="false"
+66-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:24:16-43
+67        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+67-->[androidx.core:core:1.3.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\f8430d683fe2ebfe4c92d6c8cefa7ccc\core-1.3.0\AndroidManifest.xml:24:18-86
+68        android:debuggable="true"
+69        android:icon="@mipmap/ic_launcher"
+69-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:22:16-50
+70        android:label="@string/app_name"
+70-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:21:16-48
+71        android:networkSecurityConfig="@xml/network_security_config"
+71-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:26:16-76
+72        android:roundIcon="@mipmap/ic_launcher_round"
+72-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:23:16-61
+73        android:theme="@style/AppTheme"
+73-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:25:16-47
+74        android:usesCleartextTraffic="true" > <!-- Change the value to true to enable pop-up for in foreground (remote-only, for local use ignoreInForeground) -->
+74-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\debug\AndroidManifest.xml:6:18-53
+75        <meta-data
+75-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:29:5-30:39
+76            android:name="com.dieam.reactnativepushnotification.notification_foreground"
+76-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:29:17-93
+77            android:value="true" /> <!-- Change the resource name to your App's accent color - or any other color you want -->
+77-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:30:17-37
+78        <meta-data
+78-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:32:5-33:50
+79            android:name="com.dieam.reactnativepushnotification.notification_color"
+79-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:32:17-88
+80            android:resource="@color/white" /> <!-- or @android:color/{name} to use a standard color -->
+80-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:33:17-48
+81        <receiver android:name="com.dieam.reactnativepushnotification.modules.RNPushNotificationActions" />
+81-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:35:5-104
+81-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:35:15-101
+82        <receiver android:name="com.dieam.reactnativepushnotification.modules.RNPushNotificationPublisher" />
+82-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:36:5-106
+82-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:36:15-103
+83        <receiver android:name="com.dieam.reactnativepushnotification.modules.RNPushNotificationBootEventReceiver" >
+83-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:37:5-43:16
+83-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:37:15-111
+84            <intent-filter>
+84-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:38:9-42:25
+85                <action android:name="android.intent.action.BOOT_COMPLETED" />
+85-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:39:13-75
+85-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:39:21-72
+86                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+86-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:40:13-78
+86-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:40:21-75
+87                <action android:name="com.htc.intent.action.QUICKBOOT_POWERON" />
+87-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:41:13-77
+87-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:41:21-75
+88            </intent-filter>
+89        </receiver>
+90
+91        <service
+91-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:45:5-51:15
+92            android:name="com.dieam.reactnativepushnotification.modules.RNPushNotificationListenerService"
+92-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:46:9-103
+93            android:exported="false" >
+93-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:47:9-33
+94            <intent-filter>
+94-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:48:9-50:25
+95                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+95-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:49:13-74
+95-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:49:21-71
+96            </intent-filter>
+97        </service>
+98
+99        <meta-data
+99-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:52:5-121
+100            android:name="expo.modules.updates.EXPO_UPDATE_URL"
+100-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:52:16-67
+101            android:value="https://exp.host/@whaj47/sugarMama" />
+101-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:52:68-118
+102        <meta-data
+102-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:53:5-94
+103            android:name="expo.modules.updates.EXPO_SDK_VERSION"
+103-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:53:16-68
+104            android:value="38.0.0" />
+104-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:53:69-91
+105        <meta-data
+105-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:54:5-82
+106            android:name="expo.modules.updates.ENABLED"
+106-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:54:16-59
+107            android:value="true" />
+107-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:54:60-80
+108        <meta-data
+108-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:55:5-105
+109            android:name="expo.modules.updates.EXPO_UPDATES_CHECK_ON_LAUNCH"
+109-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:55:16-80
+110            android:value="ALWAYS" />
+110-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:55:81-103
+111        <meta-data
+111-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:56:5-99
+112            android:name="expo.modules.updates.EXPO_UPDATES_LAUNCH_WAIT_MS"
+112-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:56:16-79
+113            android:value="0" />
+113-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:56:80-97
+114        <meta-data
+114-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:57:5-99
+115            android:name="expo.modules.updates.EXPO_RELEASE_CHANNEL"
+115-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:57:16-72
+116            android:value="default" />
+116-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:57:73-96
+117
+118        <activity
+118-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:59:3-65:16
+119            android:name="com.iflashapps.mumsnbub.MainActivity"
+119-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:60:5-33
+120            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+120-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:60:67-144
+121            android:label="@string/app_name"
+121-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:60:34-66
+122            android:launchMode="singleTask"
+122-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:60:145-176
+123            android:theme="@style/Theme.App.SplashScreen"
+123-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:60:220-265
+124            android:windowSoftInputMode="adjustResize" >
+124-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:60:177-219
+125            <intent-filter>
+125-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:61:7-64:23
+126                <action android:name="android.intent.action.MAIN" />
+126-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:62:9-60
+126-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:62:17-58
+127
+128                <category android:name="android.intent.category.LAUNCHER" />
+128-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:63:9-68
+128-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:63:19-66
+129            </intent-filter>
+130        </activity>
+131        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+131-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:66:5-81
+131-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:66:15-79
+132
+133        <meta-data
+133-->[:unimodules-react-native-adapter] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-14:91
+134            android:name="org.unimodules.core.AppLoader#react-native-headless"
+134-->[:unimodules-react-native-adapter] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-79
+135            android:value="org.unimodules.adapters.react.apploader.RNHeadlessAppLoader" />
+135-->[:unimodules-react-native-adapter] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-88
+136        <meta-data
+136-->[:react-native-firebase_analytics] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\analytics\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:9-18:36
+137            android:name="firebase_analytics_collection_enabled"
+137-->[:react-native-firebase_analytics] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\analytics\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-65
+138            android:value="true" />
+138-->[:react-native-firebase_analytics] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\analytics\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-33
+139
+140        <service android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingHeadlessService" />
+140-->[:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:9-111
+140-->[:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:18-108
+141        <service
+141-->[:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:9-23:19
+142            android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingService"
+142-->[:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-95
+143            android:exported="false" >
+143-->[:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-37
+144            <intent-filter>
+144-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:48:9-50:25
+145                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+145-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:49:13-74
+145-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:49:21-71
+146            </intent-filter>
+147        </service>
+148
+149        <receiver
+149-->[:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:9-32:20
+150            android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingReceiver"
+150-->[:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:13-96
+151            android:exported="true"
+151-->[:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:13-36
+152            android:permission="com.google.android.c2dm.permission.SEND" >
+152-->[:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:13-73
+153            <intent-filter>
+153-->[:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:13-31:29
+154                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+154-->[:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:17-81
+154-->[:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:25-78
+155            </intent-filter>
+156        </receiver>
+157
+158        <meta-data
+158-->[:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:34:9-36:36
+159            android:name="firebase_messaging_auto_init_enabled"
+159-->[:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:35:13-64
+160            android:value="true" />
+160-->[:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:13-33
+161        <meta-data
+161-->[:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:37:9-39:32
+162            android:name="com.google.firebase.messaging.default_notification_channel_id"
+162-->[:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:38:13-89
+163            android:value="" />
+163-->[:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:39:13-29
+164        <meta-data
+164-->[:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:40:9-42:47
+165            android:name="com.google.firebase.messaging.default_notification_color"
+165-->[:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:41:13-84
+166            android:resource="@color/white" />
+166-->[:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:42:13-44
+167
+168        <provider
+168-->[:expo-file-system] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:9-34:20
+169            android:name="expo.modules.filesystem.FileSystemFileProvider"
+169-->[:expo-file-system] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:13-74
+170            android:authorities="com.iflashapps.mumsnbub.FileSystemFileProvider"
+170-->[:expo-file-system] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:13-74
+171            android:exported="false"
+171-->[:expo-file-system] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:13-37
+172            android:grantUriPermissions="true" >
+172-->[:expo-file-system] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:13-47
+173            <meta-data
+173-->[:expo-file-system] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:13-33:70
+174                android:name="android.support.FILE_PROVIDER_PATHS"
+174-->[:expo-file-system] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:32:17-67
+175                android:resource="@xml/file_system_provider_paths" />
+175-->[:expo-file-system] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:17-67
+176        </provider>
+177
+178        <activity
+178-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:27:9-44:20
+179            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+179-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:28:13-80
+180            android:excludeFromRecents="true"
+180-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:29:13-46
+181            android:exported="true"
+181-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:30:13-36
+182            android:launchMode="singleTask"
+182-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:31:13-44
+183            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+183-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:32:13-72
+184            <intent-filter>
+184-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:33:13-43:29
+185                <action android:name="android.intent.action.VIEW" />
+185-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:17-69
+185-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:25-66
+186
+187                <category android:name="android.intent.category.DEFAULT" />
+187-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
+187-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
+188                <category android:name="android.intent.category.BROWSABLE" />
+188-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:17-78
+188-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:27-75
+189
+190                <data
+190-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:39:17-42:51
+191                    android:host="firebase.auth"
+191-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:40:21-49
+192                    android:path="/"
+192-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:41:21-37
+193                    android:scheme="genericidp" />
+193-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:42:21-48
+194            </intent-filter>
+195        </activity>
+196        <activity
+196-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:45:9-62:20
+197            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+197-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:46:13-79
+198            android:excludeFromRecents="true"
+198-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:47:13-46
+199            android:exported="true"
+199-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:48:13-36
+200            android:launchMode="singleTask"
+200-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:49:13-44
+201            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+201-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:50:13-72
+202            <intent-filter>
+202-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:51:13-61:29
+203                <action android:name="android.intent.action.VIEW" />
+203-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:17-69
+203-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:25-66
+204
+205                <category android:name="android.intent.category.DEFAULT" />
+205-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
+205-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
+206                <category android:name="android.intent.category.BROWSABLE" />
+206-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:17-78
+206-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:27-75
+207
+208                <data
+208-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:39:17-42:51
+209                    android:host="firebase.auth"
+209-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:40:21-49
+210                    android:path="/"
+210-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:41:21-37
+211                    android:scheme="recaptcha" />
+211-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:42:21-48
+212            </intent-filter>
+213        </activity>
+214
+215        <service
+215-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:64:9-73:19
+216            android:name="com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService"
+216-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:65:13-101
+217            android:enabled="true"
+217-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:66:13-35
+218            android:exported="false" >
+218-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:67:13-37
+219            <intent-filter>
+219-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:68:13-72:29
+220                <action android:name="com.google.firebase.auth.api.gms.service.START" />
+220-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:69:17-89
+220-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:69:25-86
+221
+222                <category android:name="android.intent.category.DEFAULT" />
+222-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
+222-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
+223            </intent-filter>
+224        </service>
+225        <service
+225-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:74:9-80:19
+226            android:name="com.google.firebase.components.ComponentDiscoveryService"
+226-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:75:13-84
+227            android:directBootAware="true"
+227-->[com.google.firebase:firebase-common:20.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7429cb0d5e7130993f3ad3aba5557ce6\jetified-firebase-common-20.0.0\AndroidManifest.xml:35:13-43
+228            android:exported="false" >
+228-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:76:13-37
+229            <meta-data
+229-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:77:13-79:85
+230                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+230-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:78:17-109
+231                android:value="com.google.firebase.components.ComponentRegistrar" />
+231-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c204b3c50581f519770fac7e4ef05a7e\jetified-firebase-auth-21.0.1\AndroidManifest.xml:79:17-82
+232            <meta-data
+232-->[com.google.firebase:firebase-firestore:23.0.2] C:\Users\q\.gradle\caches\transforms-2\files-2.1\dadbf14fe9e8a070145a128008dbea2b\jetified-firebase-firestore-23.0.2\AndroidManifest.xml:20:13-22:85
+233                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+233-->[com.google.firebase:firebase-firestore:23.0.2] C:\Users\q\.gradle\caches\transforms-2\files-2.1\dadbf14fe9e8a070145a128008dbea2b\jetified-firebase-firestore-23.0.2\AndroidManifest.xml:21:17-111
+234                android:value="com.google.firebase.components.ComponentRegistrar" />
+234-->[com.google.firebase:firebase-firestore:23.0.2] C:\Users\q\.gradle\caches\transforms-2\files-2.1\dadbf14fe9e8a070145a128008dbea2b\jetified-firebase-firestore-23.0.2\AndroidManifest.xml:22:17-82
+235            <meta-data
+235-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\360319d80e27666e420d6222c062d2f1\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:52:13-54:85
+236                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+236-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\360319d80e27666e420d6222c062d2f1\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:53:17-119
+237                android:value="com.google.firebase.components.ComponentRegistrar" />
+237-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\360319d80e27666e420d6222c062d2f1\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:54:17-82
+238            <meta-data
+238-->[com.google.firebase:firebase-datatransport:18.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\614feabac1c9d26b17a8139d7956ee93\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:28:13-30:85
+239                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+239-->[com.google.firebase:firebase-datatransport:18.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\614feabac1c9d26b17a8139d7956ee93\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:29:17-115
+240                android:value="com.google.firebase.components.ComponentRegistrar" />
+240-->[com.google.firebase:firebase-datatransport:18.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\614feabac1c9d26b17a8139d7956ee93\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:30:17-82
+241            <meta-data
+241-->[com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\33dd554b9e5392b54074801ae93e62d3\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:30:13-32:85
+242                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+242-->[com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\33dd554b9e5392b54074801ae93e62d3\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:31:17-139
+243                android:value="com.google.firebase.components.ComponentRegistrar" />
+243-->[com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\33dd554b9e5392b54074801ae93e62d3\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:32:17-82
+244            <meta-data
+244-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c929ae051cc6a6bab61aae3f23746900\jetified-firebase-installations-17.0.0\AndroidManifest.xml:18:13-20:85
+245                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+245-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c929ae051cc6a6bab61aae3f23746900\jetified-firebase-installations-17.0.0\AndroidManifest.xml:19:17-127
+246                android:value="com.google.firebase.components.ComponentRegistrar" />
+246-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c929ae051cc6a6bab61aae3f23746900\jetified-firebase-installations-17.0.0\AndroidManifest.xml:20:17-82
+247        </service>
+248        <service
+248-->[androidx.room:room-runtime:2.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\afcab2bd9b752eeb09c1c2439a4b1092\room-runtime-2.1.0\AndroidManifest.xml:25:9-27:40
+249            android:name="androidx.room.MultiInstanceInvalidationService"
+249-->[androidx.room:room-runtime:2.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\afcab2bd9b752eeb09c1c2439a4b1092\room-runtime-2.1.0\AndroidManifest.xml:26:13-74
+250            android:exported="false" />
+250-->[androidx.room:room-runtime:2.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\afcab2bd9b752eeb09c1c2439a4b1092\room-runtime-2.1.0\AndroidManifest.xml:27:13-37
+251
+252        <meta-data
+252-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\117371cbaa60254c4f9b5cc6f71d5780\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:11:9-13:43
+253            android:name="com.bumptech.glide.integration.okhttp3.OkHttpGlideModule"
+253-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\117371cbaa60254c4f9b5cc6f71d5780\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:12:13-84
+254            android:value="GlideModule" />
+254-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\117371cbaa60254c4f9b5cc6f71d5780\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:13:13-40
+255
+256        <receiver
+256-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\360319d80e27666e420d6222c062d2f1\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:28:9-35:20
+257            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+257-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\360319d80e27666e420d6222c062d2f1\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:29:13-78
+258            android:exported="true"
+258-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\360319d80e27666e420d6222c062d2f1\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:30:13-36
+259            android:permission="com.google.android.c2dm.permission.SEND" >
+259-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\360319d80e27666e420d6222c062d2f1\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:31:13-73
+260            <intent-filter>
+260-->[:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:13-31:29
+261                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+261-->[:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:17-81
+261-->[:react-native-firebase_messaging] C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:25-78
+262            </intent-filter>
+263        </receiver>
+264        <!--
+265             FirebaseMessagingService performs security checks at runtime,
+266             but set to not exported to explicitly avoid allowing another app to call it.
+267        -->
+268        <service
+268-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\360319d80e27666e420d6222c062d2f1\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:41:9-48:19
+269            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+269-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\360319d80e27666e420d6222c062d2f1\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:42:13-82
+270            android:directBootAware="true"
+270-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\360319d80e27666e420d6222c062d2f1\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:43:13-43
+271            android:exported="false" >
+271-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\360319d80e27666e420d6222c062d2f1\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:44:13-37
+272            <intent-filter android:priority="-500" >
+272-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:48:9-50:25
+273                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+273-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:49:13-74
+273-->C:\Users\q\WebstormProjects\sugar-mama-mobile(3)\sugar-mama-mobile\android\app\src\main\AndroidManifest.xml:49:21-71
+274            </intent-filter>
+275        </service>
+276        <service
+276-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7447e94a65cf0b9e8b14dc5cfdf99840\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:29:9-35:19
+277            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+277-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7447e94a65cf0b9e8b14dc5cfdf99840\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:30:13-103
+278            android:exported="false" >
+278-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7447e94a65cf0b9e8b14dc5cfdf99840\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:31:13-37
+279            <meta-data
+279-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7447e94a65cf0b9e8b14dc5cfdf99840\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:32:13-34:39
+280                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+280-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7447e94a65cf0b9e8b14dc5cfdf99840\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:33:17-94
+281                android:value="cct" />
+281-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7447e94a65cf0b9e8b14dc5cfdf99840\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:34:17-36
+282        </service>
+283        <service
+283-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\e21269082c3e7c37343650d0cc60b9ba\jetified-transport-runtime-3.0.0\AndroidManifest.xml:26:9-30:19
+284            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+284-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\e21269082c3e7c37343650d0cc60b9ba\jetified-transport-runtime-3.0.0\AndroidManifest.xml:27:13-117
+285            android:exported="false"
+285-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\e21269082c3e7c37343650d0cc60b9ba\jetified-transport-runtime-3.0.0\AndroidManifest.xml:28:13-37
+286            android:permission="android.permission.BIND_JOB_SERVICE" >
+286-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\e21269082c3e7c37343650d0cc60b9ba\jetified-transport-runtime-3.0.0\AndroidManifest.xml:29:13-69
+287        </service>
+288
+289        <receiver
+289-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\e21269082c3e7c37343650d0cc60b9ba\jetified-transport-runtime-3.0.0\AndroidManifest.xml:32:9-34:40
+290            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+290-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\e21269082c3e7c37343650d0cc60b9ba\jetified-transport-runtime-3.0.0\AndroidManifest.xml:33:13-132
+291            android:exported="false" />
+291-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\e21269082c3e7c37343650d0cc60b9ba\jetified-transport-runtime-3.0.0\AndroidManifest.xml:34:13-37
+292
+293        <activity
+293-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\4aca5ebb8bc1aab19c7925eb2ab19adc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:23:9-27:75
+294            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+294-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\4aca5ebb8bc1aab19c7925eb2ab19adc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:24:13-93
+295            android:excludeFromRecents="true"
+295-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\4aca5ebb8bc1aab19c7925eb2ab19adc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:25:13-46
+296            android:exported="false"
+296-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\4aca5ebb8bc1aab19c7925eb2ab19adc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:26:13-37
+297            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+297-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\4aca5ebb8bc1aab19c7925eb2ab19adc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:27:13-72
+298        <!--
+299            Service handling Google Sign-In user revocation. For apps that do not integrate with
+300            Google Sign-In, this service will never be started.
+301        -->
+302        <service
+302-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\4aca5ebb8bc1aab19c7925eb2ab19adc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:33:9-37:51
+303            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+303-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\4aca5ebb8bc1aab19c7925eb2ab19adc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:34:13-89
+304            android:exported="true"
+304-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\4aca5ebb8bc1aab19c7925eb2ab19adc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:35:13-36
+305            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+305-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\4aca5ebb8bc1aab19c7925eb2ab19adc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:36:13-107
+306            android:visibleToInstantApps="true" />
+306-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\4aca5ebb8bc1aab19c7925eb2ab19adc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:37:13-48
+307
+308        <activity
+308-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\21927a8180efebde93f368a3ac143faf\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+309            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+309-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\21927a8180efebde93f368a3ac143faf\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+310            android:exported="false"
+310-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\21927a8180efebde93f368a3ac143faf\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+311            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+311-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\21927a8180efebde93f368a3ac143faf\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+312
+313        <provider
+313-->[com.google.firebase:firebase-common:20.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7429cb0d5e7130993f3ad3aba5557ce6\jetified-firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
+314            android:name="com.google.firebase.provider.FirebaseInitProvider"
+314-->[com.google.firebase:firebase-common:20.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7429cb0d5e7130993f3ad3aba5557ce6\jetified-firebase-common-20.0.0\AndroidManifest.xml:27:13-77
+315            android:authorities="com.iflashapps.mumsnbub.firebaseinitprovider"
+315-->[com.google.firebase:firebase-common:20.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7429cb0d5e7130993f3ad3aba5557ce6\jetified-firebase-common-20.0.0\AndroidManifest.xml:28:13-72
+316            android:directBootAware="true"
+316-->[com.google.firebase:firebase-common:20.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7429cb0d5e7130993f3ad3aba5557ce6\jetified-firebase-common-20.0.0\AndroidManifest.xml:29:13-43
+317            android:exported="false"
+317-->[com.google.firebase:firebase-common:20.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7429cb0d5e7130993f3ad3aba5557ce6\jetified-firebase-common-20.0.0\AndroidManifest.xml:30:13-37
+318            android:initOrder="100" />
+318-->[com.google.firebase:firebase-common:20.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\7429cb0d5e7130993f3ad3aba5557ce6\jetified-firebase-common-20.0.0\AndroidManifest.xml:31:13-36
+319
+320        <receiver
+320-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\07a5700badd935fc2cc591d00aab10a5\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:29:9-33:20
+321            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+321-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\07a5700badd935fc2cc591d00aab10a5\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:30:13-85
+322            android:enabled="true"
+322-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\07a5700badd935fc2cc591d00aab10a5\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:31:13-35
+323            android:exported="false" >
+323-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\07a5700badd935fc2cc591d00aab10a5\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:32:13-37
+324        </receiver>
+325
+326        <service
+326-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\07a5700badd935fc2cc591d00aab10a5\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:35:9-38:40
+327            android:name="com.google.android.gms.measurement.AppMeasurementService"
+327-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\07a5700badd935fc2cc591d00aab10a5\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:36:13-84
+328            android:enabled="true"
+328-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\07a5700badd935fc2cc591d00aab10a5\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:37:13-35
+329            android:exported="false" />
+329-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\07a5700badd935fc2cc591d00aab10a5\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:38:13-37
+330        <service
+330-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\07a5700badd935fc2cc591d00aab10a5\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:39:9-43:72
+331            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+331-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\07a5700badd935fc2cc591d00aab10a5\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:40:13-87
+332            android:enabled="true"
+332-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\07a5700badd935fc2cc591d00aab10a5\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:41:13-35
+333            android:exported="false"
+333-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\07a5700badd935fc2cc591d00aab10a5\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:42:13-37
+334            android:permission="android.permission.BIND_JOB_SERVICE" />
+334-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\07a5700badd935fc2cc591d00aab10a5\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:43:13-69
+335
+336        <meta-data
+336-->[com.google.android.gms:play-services-basement:17.1.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\345ab3ac7d764c8b10080acb609ca770\jetified-play-services-basement-17.1.1\AndroidManifest.xml:23:9-25:69
+337            android:name="com.google.android.gms.version"
+337-->[com.google.android.gms:play-services-basement:17.1.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\345ab3ac7d764c8b10080acb609ca770\jetified-play-services-basement-17.1.1\AndroidManifest.xml:24:13-58
+338            android:value="@integer/google_play_services_version" />
+338-->[com.google.android.gms:play-services-basement:17.1.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\345ab3ac7d764c8b10080acb609ca770\jetified-play-services-basement-17.1.1\AndroidManifest.xml:25:13-66
+339    </application>
+340
+341</manifest>

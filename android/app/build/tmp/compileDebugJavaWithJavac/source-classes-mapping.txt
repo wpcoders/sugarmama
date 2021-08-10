@@ -1,0 +1,17 @@
+com/iflashapps/mumsnbub/BuildConfig.java
+ com.iflashapps.mumsnbub.BuildConfig
+com/iflashapps/mumsnbub/MainActivity.java
+ com.iflashapps.mumsnbub.MainActivity
+ com.iflashapps.mumsnbub.MainActivity$1
+com/iflashapps/mumsnbub/MainApplication.java
+ com.iflashapps.mumsnbub.MainApplication
+ com.iflashapps.mumsnbub.MainApplication$1
+com/iflashapps/mumsnbub/generated/BasePackageList.java
+ com.iflashapps.mumsnbub.generated.BasePackageList
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/iflashapps/mumsnbub/ReactNativeFlipper.java
+ com.iflashapps.mumsnbub.ReactNativeFlipper
+ com.iflashapps.mumsnbub.ReactNativeFlipper$1
+ com.iflashapps.mumsnbub.ReactNativeFlipper$2
+ com.iflashapps.mumsnbub.ReactNativeFlipper$2$1
